@@ -1,0 +1,537 @@
+[
+    {
+        "title": "Hill Climb Racing",
+        "description": "Play the original classic Hill Climb Racing! Race your way uphill in this physics based driving game, playable offline!\n\nMeet Bill, the young aspiring uphill racer. He is about to embark on a journey through Climb Canyon that takes him to where no ride has ever been before. With little respect to the laws of physics, Bill will not rest until he has conquered the highest hills up on the moon!\n\nFace challenges in unique hill climbing environments with a wide variety of cars to choose from. Earn points from daring tricks and collect coins to upgrade your car and travel further distances. Watch out though - Bill's neck is not what it used to be when he was a kid! And his good old gasoline crematorium will easily run out of fuel.\n\nFeatures::\n\nFresh Content\nWe are still actively developing Hill Climb Racing and adding new vehicles, new stages and new content! \n\nUnique Vehicles\nGet behind the wheel of a wide variety of different vehicles. From the iconic Hill Climber to bikes, race cars, trucks and even some outlandish vehicles such as the creepy Carantula! Half car, half tarantula, do you dare drive it?\n\nPlay Offline\nRace offline whenever and wherever you want! Hill Climb Racing is playable completely offline. Play it on a bus, plane or train! Play it anywhere!\n\nWacky Stages\nClimb Canyon is full of unique challenges and stages for you to overcome with vastly different terrains and hazards. How far can you drive without running out of gas or crashing your vehicle?\n\nUnlock and Upgrade\nTune up and fix your dream vehicle with custom parts, skins and upgrades!\n\nSimulated Physics\nWe worked hard on creating a one of a kind in-game physics system where your vehicles will react to the terrain in a unique manner, can you use this to your advantage and conquer the hills? \n\nDaily challenges and events\nTackle the daily challenges and events to earn epic rewards! \n \nRemember that we're always reading your feedback and are hard at work creating new content and fixing any issues you may find. Please feel free to report what you like or dislike or any other issues you may have with the game to support@fingersoft.com.\n \nFollow Us:\n* Facebook: https://www.facebook.com/Fingersoft\n* X: https://twitter.com/HCR_Official_\n* Website: https://www.fingersoft.com\n* Instagram: https://www.instagram.com/hillclimbracing_official\n* Discord: https://discord.com/invite/fingersoft\n* TikTok: https://www.tiktok.com/@hillclimbracing_game\n* Youtube: https://www.youtube.com/@FingersoftLtd\n \nTerms of Use: https://fingersoft.com/eula-web/\nPrivacy Policy: https://fingersoft.com/privacy-policy/",
+        "descriptionHTML": "Play the original classic Hill Climb Racing! Race your way uphill in this physics based driving game, playable offline!<br><br>Meet Bill, the young aspiring uphill racer. He is about to embark on a journey through Climb Canyon that takes him to where no ride has ever been before. With little respect to the laws of physics, Bill will not rest until he has conquered the highest hills up on the moon!<br><br>Face challenges in unique hill climbing environments with a wide variety of cars to choose from. Earn points from daring tricks and collect coins to upgrade your car and travel further distances. Watch out though - Bill&#39;s neck is not what it used to be when he was a kid! And his good old gasoline crematorium will easily run out of fuel.<br><br>Features::<br><br>Fresh Content<br>We are still actively developing Hill Climb Racing and adding new vehicles, new stages and new content! <br><br>Unique Vehicles<br>Get behind the wheel of a wide variety of different vehicles. From the iconic Hill Climber to bikes, race cars, trucks and even some outlandish vehicles such as the creepy Carantula! Half car, half tarantula, do you dare drive it?<br><br>Play Offline<br>Race offline whenever and wherever you want! Hill Climb Racing is playable completely offline. Play it on a bus, plane or train! Play it anywhere!<br><br>Wacky Stages<br>Climb Canyon is full of unique challenges and stages for you to overcome with vastly different terrains and hazards. How far can you drive without running out of gas or crashing your vehicle?<br><br>Unlock and Upgrade<br>Tune up and fix your dream vehicle with custom parts, skins and upgrades!<br><br>Simulated Physics<br>We worked hard on creating a one of a kind in-game physics system where your vehicles will react to the terrain in a unique manner, can you use this to your advantage and conquer the hills? <br><br>Daily challenges and events<br>Tackle the daily challenges and events to earn epic rewards! <br> <br>Remember that we&#39;re always reading your feedback and are hard at work creating new content and fixing any issues you may find. Please feel free to report what you like or dislike or any other issues you may have with the game to support@fingersoft.com.<br> <br>Follow Us:<br>* Facebook: https://www.facebook.com/Fingersoft<br>* X: https://twitter.com/HCR_Official_<br>* Website: https://www.fingersoft.com<br>* Instagram: https://www.instagram.com/hillclimbracing_official<br>* Discord: https://discord.com/invite/fingersoft<br>* TikTok: https://www.tiktok.com/@hillclimbracing_game<br>* Youtube: https://www.youtube.com/@FingersoftLtd<br> <br>Terms of Use: https://fingersoft.com/eula-web/<br>Privacy Policy: https://fingersoft.com/privacy-policy/",
+        "summary": "Race uphill to win in this offline physics based driving game!",
+        "installs": "1,000,000,000+",
+        "minInstalls": 1000000000,
+        "maxInstalls": 1136181089,
+        "score": 4.251424,
+        "scoreText": "4.3",
+        "ratings": 10892161,
+        "reviews": 379237,
+        "histogram": {
+            "1": 1096795,
+            "2": 361890,
+            "3": 694687,
+            "4": 1291338,
+            "5": 7447427
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.19 - $123.00 per item",
+        "androidVersion": "7.0",
+        "androidVersionText": "7.0",
+        "androidMaxVersion": "VARY",
+        "developer": "Fingersoft",
+        "developerId": "7064049075652771302",
+        "developerEmail": "support@fingersoft.com",
+        "developerWebsite": "https://www.fingersoft.com",
+        "developerAddress": "Fingersoft Oy\nAleksanterinkatu 4-6\n90100\nOulu",
+        "developerLegalName": "Fingersoft Oy",
+        "developerLegalEmail": "support@fingersoft.com",
+        "developerLegalAddress": "Aleksanterinkatu 4, 90100 OULU, Finland",
+        "developerLegalPhoneNumber": "+358 40 5237090",
+        "privacyPolicy": "http://www.fingersoft.com/privacy.html",
+        "developerInternalID": "7064049075652771302",
+        "genre": "Racing",
+        "genreId": "GAME_RACING",
+        "categories": [
+            {
+                "name": "Racing",
+                "id": "GAME_RACING"
+            },
+            {
+                "name": "Stunt driving",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Cartoon",
+                "id": null
+            },
+            {
+                "name": "Vehicles",
+                "id": null
+            },
+            {
+                "name": "Car",
+                "id": null
+            },
+            {
+                "name": "Driving",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs",
+        "headerImage": "https://play-lh.googleusercontent.com/E2KGVPaP0jn4J--gp3x0QSR4BRyHqJ-AOqSwYbS16vka9EpQa7k1rO4xqkbIZDBikg",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/6oapIRmqsbr-yt_tBZVvs-ollGW_kw5SpuHFOTA9gbQzZ5rteDyQX0BrK2upnmGYeBs",
+            "https://play-lh.googleusercontent.com/DqkuuSvPP-48Bc6TtxONVQBhXwJu2xtD958VLi4_MGNUwXiYZG1WDg3Y333TzB6ifw",
+            "https://play-lh.googleusercontent.com/x5Em7OrFJPW1cWCt0sim-P_H-94dNnIazuXtRY1xXNEJ1qDEKYPfHjlzWy09HArjSVw",
+            "https://play-lh.googleusercontent.com/FWM1kX5IO_4JaU1fHCyaS-ViSIZLRf6CfD3ab5zGMvq4iB11jhuCg5X0c1jT1i0W17Y",
+            "https://play-lh.googleusercontent.com/vRkyNkMCoch7TBoGF7OhX2Zj1l5jV_pEB-xAWf_W50D2LiBFdl3RZMI78Ny47h7G0Kk",
+            "https://play-lh.googleusercontent.com/yfVwOyVT5gsQdZBABB3idTVIkmT7n50PlJGJAix3TsV1V4bXpMEOcwAfBjlIdz8WWaOy",
+            "https://play-lh.googleusercontent.com/ConmtKKQkI4nQLYNFz1NzfzlDhiXGYlgFC2Tzu37NiaCdJzoemsezo-21a3A86JYmw",
+            "https://play-lh.googleusercontent.com/rb-9OS6KLAEoroYdQHFJEvNdeAd46kEetauG9Im7IfUhzR62v-mu_7Mhg0UYgsu7S94",
+            "https://play-lh.googleusercontent.com/bnGmzL0DIA6j3p2RB70su9rg4-hlPdXxoIymxNRaU0HmwxMMfZ2yHwg2jL9GSV55wuoD",
+            "https://play-lh.googleusercontent.com/2o2ZannodhclwxvlxqTyh2_zGPhxVR-NAbpthh53GWg0gJJ6eIK-t-ljOy6BZK03mYM",
+            "https://play-lh.googleusercontent.com/CmnxMglUB5A8lNi1dRvcOf_ZhN5TQ0i8cMp-wXEYQj9WnY1ceZshADarqwAMRE_f0J0",
+            "https://play-lh.googleusercontent.com/pV_nYnmZIPmFMDY1XpTsq3K9gXQ44fYEutZ2ZQvUWWYo4ZdPHTNIIQAtE2TJZ5LirX4",
+            "https://play-lh.googleusercontent.com/DlOvw4e3czYFsJkWV6O6_evgwm_PAftuAeSF9PvxTgNH6J7pQdBMpGARcGapfkN72h3j",
+            "https://play-lh.googleusercontent.com/dL1bZQPzae-ANkZIs4Yjuv54oYZwEOyUvIb-bdy3Hi6Q4-Ba_Y44i_cfQ_7WacW8_IQ",
+            "https://play-lh.googleusercontent.com/pNFmLZIvtt6CVRt-BUkIPNNyiTnH23keDPMCBWWIsKx4dpSLXwk5LBTz9_J0lPo-_g",
+            "https://play-lh.googleusercontent.com/uR7DQRd2-n19yXDTwnZzHffYJu0K81vJrpVH5jUZBYM314v_XlV9sk4kqxpIFPpMukg",
+            "https://play-lh.googleusercontent.com/3JSrldQDaH4L6XfdTfSosjzbcl8q9wqUqPmq45OJC8_80cp7PmrBnWBVFhFDmdWcWiA",
+            "https://play-lh.googleusercontent.com/D1JCPkO_Pf7yYMhI5fJAVASCpK3idzBWnnl-2VQ_R5OEmQLe_rvquMalFZWHYz2qBVw"
+        ],
+        "contentRating": "Everyone",
+        "adSupported": true,
+        "released": "Sep 22, 2012",
+        "updated": 1741361226000,
+        "version": "1.64.4",
+        "recentChanges": "- Translation updates<br>- Various bug fixes",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.fingersoft.hillclimb",
+        "url": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en&gl=us",
+        "fetchedAt": "2025-03-11T21:10:31.957Z"
+    },
+    {
+        "title": "Ramp Car Games: GT Car Stunts",
+        "description": "Fun Drive Games presents a mega ramp car game. Immerse yourself in the adrenaline-pumping world of extreme car stunts with the mega ramp car stunt game. Are you ready for the ultimate driving challenge that the mega ramp car stunt game offers? Embark on a journey where precision and skill are your best allies as you navigate through the intricate tracks of the mega ramp car game.\n\nThe mega ramp car game 3D is a true test of your driving prowess. Take control of powerful vehicles and conquer gravity-defying jumps, loops, and twists. With the mega ramp car racing game, every leap is a heart-pounding adventure that pushes the boundaries of possibility. Experience the thrill of speed and precision as you perform jaw-dropping stunts in the mega ramp car stunt game. Each level of the mega ramp car stunt game presents new challenges, demanding strategic planning and split-second decision-making.\n\nChallenge yourself to reach new heights of excitement with the mega ramp car stunt game. Feel the rush as you launch your vehicle off towering ramps and soar through the skies. The mega ramp car racing game is a symphony of speed and daring maneuvers. The mega ramp car game offers an array of vehicles, each meticulously designed to handle the demanding stunts ahead. From sleek sports cars to rugged off-road machines, the mega ramp racing car game 3D lets you choose your steed for the ultimate adventure.\n\nPrepare to be captivated by the breathtaking visuals of the mega ramp car racing game. From stunning vistas to intricate track designs, the mega ramp car stunt game is a visual feast that complements its heart-pounding gameplay. The mega ramp car racing game is not just about speed, it's about mastering the art of control. Develop your driving skills to perfection and show off your prowess as you navigate the complex courses of the mega ramp car stunt game.\n\nNavigate your way through the challenging levels of the mega ramp car stunt game and unlock new vehicles, tracks, and customization options. The mega ramp car stunt game rewards your progress with thrilling new content that keeps the excitement alive. Get ready to experience the ultimate thrill ride with the mega ramp car stunt game. The ramps are your playground, and the sky's the limit as you push your skills to the edge in the mega ramp car game.\n\nAre you up for the challenge? Take on the mega ramp car stunt game and become a master of extreme stunts. The mega ramp car stunt game awaits, offering you an exhilarating adventure like no other. So, gear up, rev your engines, and take the plunge into the world of high-flying, heart-stopping action with the mega ramp car stunt game. The ramps are calling, and the stage is set for you to shine in the mega ramp car game. \n\nKey features of Mega Ramp Car Game:\n\n- Numerous luxury racing stunt cars \n- Multiple car racing tracks with HD graphics\n- Realistic & smooth controls of the mega ramp car game\n- Authentic sound effects of the racing car game\n- Car games simulator challenges with the excitement of car stunts\n- Perform dangerous stunts in the mega ramp racing game\n- Multiple camera views \n- Engaging & challenging levels \n\nGive your valued feedback so that we can improve your favorite ramp racing car game 3d.",
+        "descriptionHTML": "Fun Drive Games presents a mega ramp car game. Immerse yourself in the adrenaline-pumping world of extreme car stunts with the mega ramp car stunt game. Are you ready for the ultimate driving challenge that the mega ramp car stunt game offers? Embark on a journey where precision and skill are your best allies as you navigate through the intricate tracks of the mega ramp car game.<br><br>The mega ramp car game 3D is a true test of your driving prowess. Take control of powerful vehicles and conquer gravity-defying jumps, loops, and twists. With the mega ramp car racing game, every leap is a heart-pounding adventure that pushes the boundaries of possibility. Experience the thrill of speed and precision as you perform jaw-dropping stunts in the mega ramp car stunt game. Each level of the mega ramp car stunt game presents new challenges, demanding strategic planning and split-second decision-making.<br><br>Challenge yourself to reach new heights of excitement with the mega ramp car stunt game. Feel the rush as you launch your vehicle off towering ramps and soar through the skies. The mega ramp car racing game is a symphony of speed and daring maneuvers. The mega ramp car game offers an array of vehicles, each meticulously designed to handle the demanding stunts ahead. From sleek sports cars to rugged off-road machines, the mega ramp racing car game 3D lets you choose your steed for the ultimate adventure.<br><br>Prepare to be captivated by the breathtaking visuals of the mega ramp car racing game. From stunning vistas to intricate track designs, the mega ramp car stunt game is a visual feast that complements its heart-pounding gameplay. The mega ramp car racing game is not just about speed, it&#39;s about mastering the art of control. Develop your driving skills to perfection and show off your prowess as you navigate the complex courses of the mega ramp car stunt game.<br><br>Navigate your way through the challenging levels of the mega ramp car stunt game and unlock new vehicles, tracks, and customization options. The mega ramp car stunt game rewards your progress with thrilling new content that keeps the excitement alive. Get ready to experience the ultimate thrill ride with the mega ramp car stunt game. The ramps are your playground, and the sky&#39;s the limit as you push your skills to the edge in the mega ramp car game.<br><br>Are you up for the challenge? Take on the mega ramp car stunt game and become a master of extreme stunts. The mega ramp car stunt game awaits, offering you an exhilarating adventure like no other. So, gear up, rev your engines, and take the plunge into the world of high-flying, heart-stopping action with the mega ramp car stunt game. The ramps are calling, and the stage is set for you to shine in the mega ramp car game. <br><br>Key features of Mega Ramp Car Game:<br><br>- Numerous luxury racing stunt cars <br>- Multiple car racing tracks with HD graphics<br>- Realistic &amp; smooth controls of the mega ramp car game<br>- Authentic sound effects of the racing car game<br>- Car games simulator challenges with the excitement of car stunts<br>- Perform dangerous stunts in the mega ramp racing game<br>- Multiple camera views <br>- Engaging &amp; challenging levels <br><br>Give your valued feedback so that we can improve your favorite ramp racing car game 3d.",
+        "summary": "Mega ramp car stunt game to enjoy impossible car stunts in car racing games 3d.",
+        "installs": "100,000,000+",
+        "minInstalls": 100000000,
+        "maxInstalls": 152675824,
+        "score": 3.92,
+        "scoreText": "3.9",
+        "ratings": 78244,
+        "reviews": 113,
+        "histogram": {
+            "1": 12444,
+            "2": 2333,
+            "3": 8555,
+            "4": 10111,
+            "5": 44488
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$1.99 - $31.99 per item",
+        "androidVersion": "6.0",
+        "androidVersionText": "6.0",
+        "androidMaxVersion": "VARY",
+        "developer": "Fun Drive Games",
+        "developerId": "8167926174015295369",
+        "developerEmail": "fundrivegames@gmail.com",
+        "developerWebsite": "https://fundrivegames.com",
+        "developerAddress": "Lahore",
+        "developerLegalName": "FUN DRIVE GAMES",
+        "developerLegalEmail": "fundrivegames@gmail.com",
+        "developerLegalAddress": "Office No.803, 8th Floor, Al-Qadir Heights, Lahore, 54000, Pakistan",
+        "developerLegalPhoneNumber": "+92 302 5154033",
+        "privacyPolicy": "https://fundrivegames.com/privacy",
+        "developerInternalID": "8167926174015295369",
+        "genre": "Strategy",
+        "genreId": "GAME_STRATEGY",
+        "categories": [
+            {
+                "name": "Racing",
+                "id": "GAME_RACING"
+            },
+            {
+                "name": "Stunt driving",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Stylized-realistic",
+                "id": null
+            },
+            {
+                "name": "Vehicles",
+                "id": null
+            },
+            {
+                "name": "Car",
+                "id": null
+            },
+            {
+                "name": "Vehicles",
+                "id": null
+            },
+            {
+                "name": "Sports car",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/AkcgFr9M2qfIcp1fkrQS8Ny6Ludis4_fBO0_VvfdWLJtrRpu0O-2T1v4mn0b1t59yA",
+        "headerImage": "https://play-lh.googleusercontent.com/ERPq71ZQcAqHLDQCuBIJ3ORSDkDXP3qdl6MWWVY-l2nonJf9piNtQhY3PbOJptk4OAo",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/OzfD7vDkI_rpAnUkluOPI6upRNd8ObY-H0KpRUk7uqoOP4Ds2Z_-7SPgKqHJyfxHEQ",
+            "https://play-lh.googleusercontent.com/GgdmF5gb2niB0fZMcKZX6yjUIo7qljUPGhng_OZzucqlzAVfEF6WKFI9oVCa7NRcnio",
+            "https://play-lh.googleusercontent.com/TyHZKGLcRCd_kqsz1OLcU-WvayTU23UydUV90gQJgPyhijtFemHfnREA_ZkVcu7vjbY",
+            "https://play-lh.googleusercontent.com/GP8E90Y45kI0HRmV5Qw4qfCU4Re8ZynV7U0mGBhlVE9NLJ825jFF892714P-kHU17-fK",
+            "https://play-lh.googleusercontent.com/tFXa2O6SHX9VYXI9GrvOItjQ_-o4nAqPJQ9INDGfYOI9wM0m_Ay8GgNhGmxVidvEf8Le",
+            "https://play-lh.googleusercontent.com/x3iRkE3I8mkL1zn4-f5h0uZAdYDt59nktL0uY-fMV_ZqY8ShiSoV_TKRC95mPLXixlJh",
+            "https://play-lh.googleusercontent.com/B3oM12pa5AXvBB4zW2_7z0ALQIHoWCpccX2zFN-3aVKyKksU35Qgf3pXfTsxujR9iA",
+            "https://play-lh.googleusercontent.com/ZYTXAFiMZORMwJB6rxWJb5gULA809kajUASluB6kGV_7YoNfG1ye4NjVLLVWlkhN6bCy",
+            "https://play-lh.googleusercontent.com/nCxDUiprJu7MZVO2tofqPaJezVIMrvu8EdNfq7z9IuVPyJdSOmhnDYJypvjugrmkQQ",
+            "https://play-lh.googleusercontent.com/JCwYFe0NGrh0Bgk5HdcW774TdCcoHTShiHEXPBw6X3LtuyhFveK2yXKnd4J8xo6-bLc",
+            "https://play-lh.googleusercontent.com/Zgz-UeUGy4o6mFNnYgf-r8Z8G5T37ZF5CDlRHFFTmAQ5ybcPVaEBKIHLOR0dMTfb0vPk",
+            "https://play-lh.googleusercontent.com/d_m4V2felg4DI3XmLq4kH2JFks9UoGOOoglupg64hQe4C6jntG1bDsUW8Fs-jJ92ZQQ",
+            "https://play-lh.googleusercontent.com/hBHwmR5jByZrnrrg_veD-AcUe6QhtHXm6jP_GQu92R7gUoG_sebTqwu4wuhiygGlOA",
+            "https://play-lh.googleusercontent.com/2CLg314gnJvzt1hVN58tYqUhN4i3fClW1XX_emtaqTaE6zfjyF9mF8DbL8IstDHSXIc",
+            "https://play-lh.googleusercontent.com/0Id5f4zl09KZlp33Mpy-07St5Y5JaEiEu2MxnYLxhHp8EvEk4_kd5LfuuKLppWrit8A"
+        ],
+        "contentRating": "Teen",
+        "adSupported": true,
+        "released": "May 31, 2021",
+        "updated": 1722363707000,
+        "version": "4.0",
+        "recentChanges": "DOWNLOAD NOW!<br>-Speed Boats, Helicopters &amp; Jets Added<br>-New Stunt Mode Added<br>-New Mode Added<br>-Size Optimized<br>-Bugs Fixed<br>-Resolution Issue Resolved<br>-Crashes Fixed<br>-Performance Optimised <br>-Bug Fixes<br>-New Mode Added<br>-Vitals Optimised<br>-Ads Reduced<br>-Loading Time Reduced<br>-New Mode Added<br>-Vitals Stabilized <br>-New Mode Added<br>-Gameplay Improvements|<br>-Features Enhanced<br>-Game bugs resolved<br><br>Update now and let us know about your feedback.",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks",
+        "url": "https://play.google.com/store/apps/details?id=com.fundrivegames.mega.ramp.ultimate.cars.stunts.impossibletracks&hl=en&gl=us",
+        "fetchedAt": "2025-03-11T21:23:49.848Z"
+    },
+    {
+        "title": "Mega Ramp Ultimate Stunts",
+        "description": "Experience the Thrill of Mega Ramp Ultimate Stunts!\nGet ready for an adrenaline-pumping adventure with Mega Ramp Ultimate Stunts, where you can push the limits of car stunt driving. Take control of powerful vehicles and perform jaw-dropping stunts on massive ramps. Whether you're racing through challenging tracks or flipping your car in mid-air this game offers endless excitement for stunt enthusiasts.\nIn Mega Ramp Car Stunts, you’ll face thrilling obstacles and daring challenges that test your driving skills. From high-speed jumps to precision landings, every moment is packed with action. The Ramp Car Stunt Driving mechanics are designed to give you full control allowing you to perform flips spins and drifts with ease.\nIf you love Car Stunt Driving Games this is the ultimate experience. With stunning graphics and realistic physics Ultimate Car Stunt Games bring the thrill of stunt driving to life. Explore a variety of tracks each with unique ramps and obstacles and prove your skills in Mega Ramp Ultimate Racing.\nCompete in Mega Ramp Ultimate Driving modes where speed and precision are key to victory. Whether you're a casual player or a hardcore stunt fan this game offers something for everyone. So, buckle up hit the ramps and show the world what you’ve got in this epic stunt-driving adventure!\nFeatures of Mega Ramp Ultimate Stunts:\n•\tRealistic car physics\n•\tStunning 3D graphics\n•\tHigh-speed racing action\n•\tChallenging stunt levels\n•\tEasy to learn hard to master mechanics",
+        "descriptionHTML": "Experience the Thrill of Mega Ramp Ultimate Stunts!<br>Get ready for an adrenaline-pumping adventure with Mega Ramp Ultimate Stunts, where you can push the limits of car stunt driving. Take control of powerful vehicles and perform jaw-dropping stunts on massive ramps. Whether you&#39;re racing through challenging tracks or flipping your car in mid-air this game offers endless excitement for stunt enthusiasts.<br>In Mega Ramp Car Stunts, you’ll face thrilling obstacles and daring challenges that test your driving skills. From high-speed jumps to precision landings, every moment is packed with action. The Ramp Car Stunt Driving mechanics are designed to give you full control allowing you to perform flips spins and drifts with ease.<br>If you love Car Stunt Driving Games this is the ultimate experience. With stunning graphics and realistic physics Ultimate Car Stunt Games bring the thrill of stunt driving to life. Explore a variety of tracks each with unique ramps and obstacles and prove your skills in Mega Ramp Ultimate Racing.<br>Compete in Mega Ramp Ultimate Driving modes where speed and precision are key to victory. Whether you&#39;re a casual player or a hardcore stunt fan this game offers something for everyone. So, buckle up hit the ramps and show the world what you’ve got in this epic stunt-driving adventure!<br>Features of Mega Ramp Ultimate Stunts:<br>•\tRealistic car physics<br>•\tStunning 3D graphics<br>•\tHigh-speed racing action<br>•\tChallenging stunt levels<br>•\tEasy to learn hard to master mechanics",
+        "summary": "Speed up supercar on challenging sky mega ramp tracks.",
+        "installs": "50,000,000+",
+        "minInstalls": 50000000,
+        "maxInstalls": 64984107,
+        "score": 3.6913946,
+        "scoreText": "3.7",
+        "ratings": 131240,
+        "reviews": 1290,
+        "histogram": {
+            "1": 33461,
+            "2": 6202,
+            "3": 5451,
+            "4": 8177,
+            "5": 77866
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": false,
+        "androidVersion": "5.1",
+        "androidVersionText": "5.1",
+        "androidMaxVersion": "VARY",
+        "developer": "Virtual Dream Heroes",
+        "developerId": "6725168974429652400",
+        "developerEmail": "redrhinogames100@gmail.com",
+        "developerWebsite": "https://redrhinogames.co/ultimate-ramp-driving-stunts/",
+        "developerLegalName": "VIRTUAL DREAM HEROS",
+        "developerLegalEmail": "info@virtualdreamheroes.com",
+        "developerLegalAddress": "Gulberg 3, Lahore, Pakistan",
+        "developerLegalPhoneNumber": "+92 327 6840435",
+        "privacyPolicy": "https://redrhinogames.co/privacy-policy/",
+        "developerInternalID": "6725168974429652400",
+        "genre": "Strategy",
+        "genreId": "GAME_STRATEGY",
+        "categories": [
+            {
+                "name": "Racing",
+                "id": "GAME_RACING"
+            },
+            {
+                "name": "Stunt driving",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/TgatqQ2RScn4NPbXscMUNdX0h37Eb0yqlZg67u23nijB2G7mIoAZR-be7ZrPJkun0YI",
+        "headerImage": "https://play-lh.googleusercontent.com/9xSMPS3PE6WUHELT3J9jOMxxzXPj4gxifIgpbG-tveBGwkWaydG_IE-N2n17b7z4_v0",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/MP0EoDIb7EmqGw_NTmHZ8Zf6xb40WQONc0cfymd7FZNlbdEStKSb-KshiLUFqGBQ357W",
+            "https://play-lh.googleusercontent.com/MU3CixNTqAniaHHP-nSQF2Ai3UyXhxsQEdNVQ_J-yvUOl01p20vuAX5eyDVuLZn9gzAu",
+            "https://play-lh.googleusercontent.com/oA2ujmeLfiE6p-mNa5DarNwXJ0sOARvLna_8j6ehX8Q5wCmZKC9VjgvpyhoMWQS4P_Q",
+            "https://play-lh.googleusercontent.com/IDHrOYofK-cp569655iv6RbEtxDMujABucy93wOuSVq5xWDlVkYcqY84Q2Iz6eZnjVE",
+            "https://play-lh.googleusercontent.com/axOlezDigbt7DbPFFEFo6u99jxQq_9r13R1IBG85ekAqS6OpjCKrerJ1F4i4Q8M8w9Q",
+            "https://play-lh.googleusercontent.com/hb37QjP1oaPXLCA1eeaTpd2tZGm3_CBKowvoKkROv9AsDC4Tqb5OgfIhKkOoXckxxEL-",
+            "https://play-lh.googleusercontent.com/48iF1wW4aK4jvWJUEDagp37lYgB6xwYmajclnORYIEY5oSgg1_1vuacCR0Td6XE9Q0g",
+            "https://play-lh.googleusercontent.com/kjBWBwMcoFQdyYVCaAJlHEmHGu_gZHwQPRdqhMMtAerrLjj9fUVGiXg0AxJxnvT9n_I",
+            "https://play-lh.googleusercontent.com/GgV3Ds4BnZRmYMWKeVIPkmu9_cFnT-UFOLZ3sDH5PqlGmsrqkXPDvcaF6T4uz1hVmg",
+            "https://play-lh.googleusercontent.com/vTB0KNemDTRXLm9wq2G4se3jplCTID6YAJeWBzXc7oKTbadVRzzhU3Kf74Z2277G5w",
+            "https://play-lh.googleusercontent.com/qjLFakhSGaDgsl2lq9GlZttE9Nu_SZMlcHIfBzu_HTDBjSvLZ3qtC2afFqUZ7-UZFg",
+            "https://play-lh.googleusercontent.com/TZpiHTJ_FSUmaDKabHsRroPNInVPwI4BdabyIidki-YHgT8ZSSSVGsFEggaGQCfyfMY"
+        ],
+        "contentRating": "Everyone",
+        "adSupported": true,
+        "released": "Dec 14, 2019",
+        "updated": 1740137084000,
+        "version": "1.9.9",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.tt.mega.ramps.ultimate.races",
+        "url": "https://play.google.com/store/apps/details?id=com.tt.mega.ramps.ultimate.races&hl=en&gl=us",
+        "fetchedAt": "2025-03-11T21:26:31.396Z"
+    },
+    {
+        "title": "Shadow Diary: Rise",
+        "description": "Shadow Diary: Rise\nIn the future, a powerful new species known as \"\"shadow cyborgs\"\" emerges from the fusion of humans, technology, and black metal. The government forms the Shadow Security Force (S.E.F) in each sector, all controlled by the Headquarters in Century City. This seemingly perfect system collapses when the Headquarters is attacked by the Dark Clan.\nCORE, a senior cyborg soldier, discovers the plot too late. The Lord Commander of S.E.F is hacked, leading him to slay his own soldiers and replace them with a new generation of shadow cyborgs to overthrow the government. After the attack, CORE joins the rebellion, seeking revenge for his fallen comrades and aiming to dismantle the Dark Clan.\nShadow Diary is a hybrid of hack 'n' slash and action platformer genres, featuring a variety of weapons such as swords, buster swords, spears, and twin daggers, each with unique built-in combos. Starting from the Dark Forest, players will face dangerous enemies and traps, using their skills to evade attacks and execute extraordinary combos.\nFEATURES of Shadow Diary - Ninja Shadow Revenge:\nTutorial for Beginners: Ensures every player knows how to play.\nPlayable OFFLINE: Enjoy the game without an internet connection.\nSmooth Controls: Experience seamless game control.\nPowerful Combos: Discover unique combos for each weapon, making the gameplay fun and surprising.\nCustomization and Upgrades: Upgrade and customize your hero with epic weapons and armor suits.\nStunning Sci-Fi Graphics and Effects: Enjoy ultra-stunning visuals.\nGiant Bosses: Face unique bosses with distinct attack patterns.\nFIGHTING in Shadow Diary:\nLocked Screen Combat: The screen locks when enemies appear, requiring you to defeat waves of enemies to progress.\nSurvival Skills: Use evasion skills to survive or attack enemies fiercely.\nTraps and Platforms: Exploit traps and platforms to defeat enemies.\nStrategic Gameplay: Employ various strategies to handle enemies.\nADVENTURE & STORY:\nChallenging Levels: Beyond combat, challenge yourself to complete levels filled with dangerous platforms.\nVARIOUS WEAPONS:\nDiverse Arsenal: Use different weapons like swords, buster swords, and spears, each with perfect combos for an unforgettable hack and slash experience.\nWeapon Upgrades: Pick your favorite weapons and upgrade them to unlock stronger combos.\nEmbark on a thrilling adventure with CORE as he fights to avenge his comrades and bring down the Dark Clan in Shadow Diary: Rise.",
+        "descriptionHTML": "Shadow Diary: Rise<br>In the future, a powerful new species known as &quot;&quot;shadow cyborgs&quot;&quot; emerges from the fusion of humans, technology, and black metal. The government forms the Shadow Security Force (S.E.F) in each sector, all controlled by the Headquarters in Century City. This seemingly perfect system collapses when the Headquarters is attacked by the Dark Clan.<br>CORE, a senior cyborg soldier, discovers the plot too late. The Lord Commander of S.E.F is hacked, leading him to slay his own soldiers and replace them with a new generation of shadow cyborgs to overthrow the government. After the attack, CORE joins the rebellion, seeking revenge for his fallen comrades and aiming to dismantle the Dark Clan.<br>Shadow Diary is a hybrid of hack &#39;n&#39; slash and action platformer genres, featuring a variety of weapons such as swords, buster swords, spears, and twin daggers, each with unique built-in combos. Starting from the Dark Forest, players will face dangerous enemies and traps, using their skills to evade attacks and execute extraordinary combos.<br>FEATURES of Shadow Diary - Ninja Shadow Revenge:<br>Tutorial for Beginners: Ensures every player knows how to play.<br>Playable OFFLINE: Enjoy the game without an internet connection.<br>Smooth Controls: Experience seamless game control.<br>Powerful Combos: Discover unique combos for each weapon, making the gameplay fun and surprising.<br>Customization and Upgrades: Upgrade and customize your hero with epic weapons and armor suits.<br>Stunning Sci-Fi Graphics and Effects: Enjoy ultra-stunning visuals.<br>Giant Bosses: Face unique bosses with distinct attack patterns.<br>FIGHTING in Shadow Diary:<br>Locked Screen Combat: The screen locks when enemies appear, requiring you to defeat waves of enemies to progress.<br>Survival Skills: Use evasion skills to survive or attack enemies fiercely.<br>Traps and Platforms: Exploit traps and platforms to defeat enemies.<br>Strategic Gameplay: Employ various strategies to handle enemies.<br>ADVENTURE &amp; STORY:<br>Challenging Levels: Beyond combat, challenge yourself to complete levels filled with dangerous platforms.<br>VARIOUS WEAPONS:<br>Diverse Arsenal: Use different weapons like swords, buster swords, and spears, each with perfect combos for an unforgettable hack and slash experience.<br>Weapon Upgrades: Pick your favorite weapons and upgrade them to unlock stronger combos.<br>Embark on a thrilling adventure with CORE as he fights to avenge his comrades and bring down the Dark Clan in Shadow Diary: Rise.",
+        "summary": "Embark on an adventure filled with epic battles and powerful combo moves.",
+        "installs": "100,000+",
+        "minInstalls": 100000,
+        "maxInstalls": 129762,
+        "histogram": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$1.99 - $99.99 per item",
+        "androidVersion": "5.0",
+        "androidVersionText": "5.0",
+        "androidMaxVersion": "VARY",
+        "developer": "FNF Mod Test : Character",
+        "developerId": "FNF+Mod+Test+:+Character",
+        "developerEmail": "shawnarturny@gmail.com",
+        "developerWebsite": "http://cha.veervistagaming.com/",
+        "developerLegalName": "Ingrid Hjelm",
+        "developerLegalEmail": "shawnarturny@gmail.com",
+        "developerLegalAddress": "Nikolaikirkestræde 16, 6800 Varde, Denmark",
+        "privacyPolicy": "http://cha.veervistagaming.com/aakarshaninteracive.html",
+        "developerInternalID": "FNF+Mod+Test+:+Character",
+        "genre": "Casual",
+        "genreId": "GAME_CASUAL",
+        "categories": [
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/cQwnhoWy5irB-FAtSC-LFWHtolhe77vmWCip4AarIv3ju4zIBEmg1fmpkkRUdnGNwYA",
+        "headerImage": "https://play-lh.googleusercontent.com/r14R27bgAbq7BJfVCZkunsTXYtuZ0Vmj1GYHvl2sqqcai7PTg-5lQ084NOTOnUYWKW4",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/6eOg_bmj1rGmz_otbhiy41_AW5fhwpHGoO3jiVk_KG7G_XRNCdtteePEkCgD1yJ7-Rw",
+            "https://play-lh.googleusercontent.com/5XcQZCvsdoYqiuMCILmCkTUmJJdOtSgbixeX42WEv3cMBFt87Ozlw4RVNZuEy8lPyKQ",
+            "https://play-lh.googleusercontent.com/NGWHQbnfxbU_O1yQjTECo8gi2OkeYlUf2F4cnUX9hNOU1EzT_EMASajYufd3VgkX2A",
+            "https://play-lh.googleusercontent.com/_eUp6JuNkxTmgRtoC8ih5z4Qetc_RrAVfEiJgGvB076Sx-H-K1kUxF_aWP3vWUBjLwE",
+            "https://play-lh.googleusercontent.com/TT9SaSFzg5_1PqALHxUopyeKzklgETkVffYHhWH--UICvOCJ5bBkojs5Y1mZ9D7ACAk",
+            "https://play-lh.googleusercontent.com/xBqHkmg8rfSM7P7uWPYNn-pEklfE3htT05LAC0voAOlDiZvFGq0e-2uvUvYtyFei7DSV",
+            "https://play-lh.googleusercontent.com/oO3LuP5Xo52IXv-1w3m6YBNx0fzc5hgTChH3CgYZx-mKxo19qwwWpWZ4VJz01JdARNg",
+            "https://play-lh.googleusercontent.com/NidPzv_lExd9YViHak1GwehuvmhD71O0R_UHomnEvtwaVG0Rs6jxOO8QciAbLvnx568",
+            "https://play-lh.googleusercontent.com/FnNMP5gQZLhi9J7iD3V0NqvZVVkHPsTs6X4YFqo_JxpDONJetGykNCo6SJDs8Q6zxa5e",
+            "https://play-lh.googleusercontent.com/_A5IRUhMRNJsLbC9Ituf1ftTLzwjvSy6bJurTYCza6b4UXQkCaAVxrUv2apXN1wGVA",
+            "https://play-lh.googleusercontent.com/jpC5HD7ojbM9xVK7bVUiuuRhLYJywqNYMu5CmQ0rRdXbNkxOxA4MiUmd1f7aoEPoWqQ",
+            "https://play-lh.googleusercontent.com/tgmkcvHap4JGfHWWcro_wL4UrpLJprcYMq65j6OpJSU6T8gU8k9v7hcTy5C_d4PRwaw"
+        ],
+        "contentRating": "Teen",
+        "contentRatingDescription": "Mild Violence",
+        "adSupported": true,
+        "released": "Jun 17, 2024",
+        "updated": 1718683445000,
+        "version": "1.0.0",
+        "recentChanges": "Fun Game development complete.",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.shadowdiary.theroadtorisekya",
+        "url": "https://play.google.com/store/apps/details?id=com.shadowdiary.theroadtorisekya&hl=en&gl=us",
+        "fetchedAt": "2025-03-11T21:33:48.147Z"
+    },
+    {
+        "title": "BMX Blast 2022",
+        "description": "Play and discover the life of Golden High’s most mischievous group.\n\n★ 3D environment\n★ Race and surf through the Golden Hills\n★ Get unlimited daily rewards\n★ Collect COINS, gather REWARDS and complete MISSIONS\n★ Score Multipliers\n★ Weekly Leaderboards\n★ Rush, Rail and Surf through Golden Hills\n★ EXPLORE the vibrant city of Golden Hills\n★ Colorful HD and 4K graphics\n★ DODGE, JUMP, and SLIDE through obstacles\n★ Run, Slide, Fly, Race, Jump, Blast\n★ Upgrade and collect Characters\n★ Upgrade and collect Bikes\n★ Superfast and Lightning Reflexes\n★ Accept the DAILY CHALLENGE to earn extra Rewards\n★ SCORE THE HIGHEST and beat your friends using exciting power-ups\n\nThis game is completely free to download and play. However, some game items can be purchased with real money within the game. You can restrict in-app purchases in your store’s settings.",
+        "descriptionHTML": "Play and discover the life of Golden High’s most mischievous group.<br><br>★ 3D environment<br>★ Race and surf through the Golden Hills<br>★ Get unlimited daily rewards<br>★ Collect COINS, gather REWARDS and complete MISSIONS<br>★ Score Multipliers<br>★ Weekly Leaderboards<br>★ Rush, Rail and Surf through Golden Hills<br>★ EXPLORE the vibrant city of Golden Hills<br>★ Colorful HD and 4K graphics<br>★ DODGE, JUMP, and SLIDE through obstacles<br>★ Run, Slide, Fly, Race, Jump, Blast<br>★ Upgrade and collect Characters<br>★ Upgrade and collect Bikes<br>★ Superfast and Lightning Reflexes<br>★ Accept the DAILY CHALLENGE to earn extra Rewards<br>★ SCORE THE HIGHEST and beat your friends using exciting power-ups<br><br>This game is completely free to download and play. However, some game items can be purchased with real money within the game. You can restrict in-app purchases in your store’s settings.",
+        "summary": "Royal Run and Fun",
+        "installs": "5,000,000+",
+        "minInstalls": 5000000,
+        "maxInstalls": 8001527,
+        "score": 4,
+        "scoreText": "4.0",
+        "ratings": 13597,
+        "reviews": 6,
+        "histogram": {
+            "1": 2813,
+            "2": 0,
+            "3": 468,
+            "4": 1406,
+            "5": 8908
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $5.49 per item",
+        "androidVersion": "5.1",
+        "androidVersionText": "5.1",
+        "androidMaxVersion": "VARY",
+        "developer": "Zapak",
+        "developerId": "8696276183729924235",
+        "developerEmail": "support@zapak.com",
+        "developerWebsite": "https://www.zapak.com",
+        "developerAddress": "801/ 802, Grandeur Lotus, Captain Sawant Marg, Andheri (W), Mumbai – 400 053",
+        "developerLegalName": "ZAPAK GAMES PRIVATE LIMITED",
+        "developerLegalEmail": "support@zapak.com",
+        "developerLegalAddress": "Plot No. B-06, Valecha Chambers, 5th Floor New Link Road, Near Infinity Mall, Andheri West Andheri, Mumbai, Maharashtra 400053, India",
+        "developerLegalPhoneNumber": "+91 96990 34206",
+        "privacyPolicy": "https://www.zapak.com/privacy-policy",
+        "developerInternalID": "8696276183729924235",
+        "genre": "Arcade",
+        "genreId": "GAME_ARCADE",
+        "categories": [
+            {
+                "name": "Action",
+                "id": "GAME_ACTION"
+            },
+            {
+                "name": "Platformer",
+                "id": null
+            },
+            {
+                "name": "Runner",
+                "id": null
+            },
+            {
+                "name": "Arcade",
+                "id": "GAME_ARCADE"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Vehicles",
+                "id": null
+            },
+            {
+                "name": "Bicycle",
+                "id": null
+            },
+            {
+                "name": "City",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/zsC2GUj-ljK4HTeYbV07fGWRBvHuhT8eV20QqmDW5dP-WXzBytfTxZo-MHamvHztACO0",
+        "headerImage": "https://play-lh.googleusercontent.com/r_f8eJZyP_yFTmU77vu8evIVcD53Z1OHKHSaF3iKergCrYPqRhcBWTj_CJQ2Js42NQ",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/7_0m44iJSBOxclUoxQp5VBBYWMq8Gb_YUWataY4GY0QunhkrhkTHPIuCJSgO--R_hkw",
+            "https://play-lh.googleusercontent.com/pSOf7Zish8NXUtT-sRFlwgdqMgRnXVan_ZrqIoYyTiWdj4BAZCHDnW_ixlBD3MQT3A",
+            "https://play-lh.googleusercontent.com/htizlezrrcUur9nrZqyN75IO_tbCt-TjxNdHxX7DUaKkou0fgGd-ZDPBKuKfLN9QiFw",
+            "https://play-lh.googleusercontent.com/Y8VcGcq_vI7-hmfi_jt5KwblSiwlWtGWeoqATUN2K_v68EhXXlJ7tGyzDgD-YYk3oRk",
+            "https://play-lh.googleusercontent.com/TKLyWNCw-7JW1bRFgP1twNcaKmWYbX8HQ9-2VD48jhQAr-6HWIvFtaUT3a8rCqAXZU4",
+            "https://play-lh.googleusercontent.com/YkkX3SkhhE-AorXpvJlr1G_cR2W9Y0rThbGcPOVfuOxuNJU4AOWUMJUEtzgxzU9wzg",
+            "https://play-lh.googleusercontent.com/gGfO3_iRth8fpX9Qev1yNiRYmxVf9JZ-FD5HbR4aVwaMv3hO5PaHqlaNSEzCMYlRLCw",
+            "https://play-lh.googleusercontent.com/99d_yzf45jltzN8OdT8a5Oygk5zJiilaxBAmj-DghX5etcClMBLvu5LWKyNi9q81uiDk",
+            "https://play-lh.googleusercontent.com/7xjVEZkzCDk_qfpj3nE6TwE8dAXVty1xQRD5XtwzjXGHqdIso3G-bsWKYn0w5JbqIns",
+            "https://play-lh.googleusercontent.com/va25YTWY4ilyqxSJ5x83-LTRNrvsiLCQnndBjsGB2Jh1_Ano7goVkHe6uB18xlMgZA",
+            "https://play-lh.googleusercontent.com/3PHHQgo8oRaTZpR73BHp0geL0Yztl1aMx5EfZNe4PSorLq-24Igg2Zfig2vaqGdeuQ",
+            "https://play-lh.googleusercontent.com/OPGKI_dotFbGO95DuP6sdgTNsWC_lVy_HNRJ31PTHJpFUv6MF746q7vU7Ez02wOZul8",
+            "https://play-lh.googleusercontent.com/9oZjoLUZgG6u6zgJsdUx1xDRyOuc0gC7AgupFYv5CSF35kU_VE2VR1T6mYkAmOGu5qc",
+            "https://play-lh.googleusercontent.com/-MLWys6UIt1HeTeNTlikCmfH7RD_wjpSQUYqg87akZmTl-1GvBwxWqok0G-DP5NzzE8",
+            "https://play-lh.googleusercontent.com/lnnHCHR5d-PE7WUcH3MUqKrn_ftrdQuQdOtaSl7Vxw6124f48Nfnm7cZJVvhy26rwsE",
+            "https://play-lh.googleusercontent.com/G9cVcKWSh_I4lHXq_bl8lCooda6Hq3NOp8SbQs5VuIqB0Ot0R7KsMN_O5sh_xkTFKw",
+            "https://play-lh.googleusercontent.com/5ZAT9v3kS4HIW9cdGQj1Fu7qtwyIxCsu0D5oM7TZ6JN9hV4wIx01-SeGvKF7Iee-pJg",
+            "https://play-lh.googleusercontent.com/-exOSVT6Hyykjccns__aXraMorJQKvnXHrfdLXX6LkojeZL8OibuqbB3-VP7YWpDjfsi",
+            "https://play-lh.googleusercontent.com/sPle9REBRbXWNlN1KWok62oA1wED0-jIVyZM6ct_EvchPNwwveggzT_k2gYNLy8AWg",
+            "https://play-lh.googleusercontent.com/QAHOOsFDFgNzMrxVjBfNlgwn3FNxmCXb28FOY-zPXWXfaGmetpnli6tn3-eFEUr_Zck",
+            "https://play-lh.googleusercontent.com/vNNMt9tBdzQecEq-vpmonLGc-BwGsXiBStyZSDAAEoDxVF5u2tFVBrvXg5Wgi5mB8rM"
+        ],
+        "video": "https://www.youtube.com/embed/9aztQga1txI?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/r_f8eJZyP_yFTmU77vu8evIVcD53Z1OHKHSaF3iKergCrYPqRhcBWTj_CJQ2Js42NQ",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/9aztQga1txI.mp4",
+        "contentRating": "Teen",
+        "adSupported": true,
+        "released": "May 16, 2019",
+        "updated": 1738587406000,
+        "version": "1.3.256",
+        "recentChanges": "While Gopal and Madhav are on their quest to grab Pappi Bhaai, we chased out notorious bugs and optimised the game for enhanced fun. Now enjoy all the Golmaal at Golden Hills High School even more. Play Now!",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.zapak.golmaaljunior",
+        "url": "https://play.google.com/store/apps/details?id=com.zapak.golmaaljunior&hl=en&gl=us",
+        "fetchedAt": "2025-03-11T22:05:13.955Z"
+    }
+]
