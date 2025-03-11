@@ -17,7 +17,7 @@ import {
   Icon
 } from '@chakra-ui/react';
 import { motion } from 'framer-motion';
-import { FaDownload, FaStar, FaAndroid, FaCalendar, FaFolder, FaDatabase, FaCodeBranch } from 'react-icons/fa';
+import { FaDownload, FaStar, FaAndroid, FaCalendar, FaFolder, FaDatabase, FaCodeBranch, FaTwitter, FaGithub, FaLinkedin } from 'react-icons/fa';
 import PostCard from '../components/PostCard';
 
 const InfoBox = ({ label, value }) => (
@@ -315,6 +315,137 @@ const SingleAppView = () => {
             </SimpleGrid>
           </Box>
         )}
+      </motion.div>
+      
+
+
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+      >
+        <Box
+          as="footer"
+          mt={8}
+          py={{ base: 6, md: 8 }}
+          px={{ base: 4, md: 6, lg: 8 }}
+          borderTop="1px"
+          borderColor="gray.200"
+          bg="gray.50"
+        >
+          <Grid
+            templateColumns={{ base: "1fr", sm: "repeat(2, 1fr)", lg: "repeat(3, 1fr)" }}
+            gap={{ base: 8, md: 12 }}
+            maxW="7xl"
+            mx="auto"
+          >
+            {/* Company Column */}
+            <VStack align={{ base: "center", sm: "start" }} spacing={4}>
+              <Heading size={{ base: "sm", md: "md" }} color="blue.600">Company</Heading>
+              <VStack align={{ base: "center", sm: "start" }} spacing={3}>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  About Us
+                </Text>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  Features
+                </Text>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  Pricing
+                </Text>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  Career
+                </Text>
+              </VStack>
+            </VStack>
+
+            {/* Resources Column */}
+            <VStack align={{ base: "center", sm: "start" }} spacing={4}>
+              <Heading size={{ base: "sm", md: "md" }} color="blue.600">Resources</Heading>
+              <VStack align={{ base: "center", sm: "start" }} spacing={3}>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  Browse Apps
+                </Text>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  Categories
+                </Text>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  Top Charts
+                </Text>
+                <Text 
+                  fontSize={{ base: "sm", md: "md" }}
+                  cursor="pointer" 
+                  _hover={{ color: "blue.500" }}
+                >
+                  New Releases
+                </Text>
+              </VStack>
+            </VStack>
+
+            {/* Contact Column */}
+            <VStack align={{ base: "center", sm: "start" }} spacing={4}>
+              <Heading size={{ base: "sm", md: "md" }} color="blue.600">Contact Us</Heading>
+              <VStack align={{ base: "center", sm: "start" }} spacing={3}>
+                <Text fontSize={{ base: "sm", md: "md" }}>support@appstore.com</Text>
+                <Text fontSize={{ base: "sm", md: "md" }}>+1 (555) 123-4567</Text>
+                <HStack spacing={6} pt={2}>
+                  <motion.a whileHover={{ scale: 1.2 }} href="https://twitter.com" target="_blank">
+                    <Icon as={FaTwitter} w={{ base: 4, md: 5 }} h={{ base: 4, md: 5 }} color="blue.400" />
+                  </motion.a>
+                  <motion.a whileHover={{ scale: 1.2 }} href="https://github.com" target="_blank">
+                    <Icon as={FaGithub} w={{ base: 4, md: 5 }} h={{ base: 4, md: 5 }} color="gray.600" />
+                  </motion.a>
+                  <motion.a whileHover={{ scale: 1.2 }} href="https://linkedin.com" target="_blank">
+                    <Icon as={FaLinkedin} w={{ base: 4, md: 5 }} h={{ base: 4, md: 5 }} color="blue.600" />
+                  </motion.a>
+                </HStack>
+              </VStack>
+            </VStack>
+          </Grid>
+          
+          {/* Copyright Section */}
+          <Box 
+            pt={{ base: 6, md: 8 }} 
+            mt={{ base: 6, md: 8 }} 
+            borderTop="1px" 
+            borderColor="gray.200"
+          >
+            <Text 
+              fontSize={{ base: "xs", md: "sm" }} 
+              color="gray.600"
+              textAlign="center"
+            >
+              © 2024 App Store. All rights reserved.
+            </Text>
+          </Box>
+        </Box>
       </motion.div>
     </Container>
   );
