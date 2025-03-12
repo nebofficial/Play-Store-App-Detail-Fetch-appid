@@ -16,6 +16,7 @@ import { motion } from 'framer-motion';
 const CreatePost = () => {
   const [formData, setFormData] = useState({
     appId: '',
+    appLink: '',
     category: ''
   });
   const [isLoading, setIsLoading] = useState(false);
@@ -36,13 +37,25 @@ const CreatePost = () => {
     setIsLoading(true);
 
     try {
+      let finalAppId = formData.appId;
+
+      // Extract App ID from link if provided
+      if (formData.appLink) {
+        const match = formData.appLink.match(/id=([^&]+)/);
+        if (match) {
+          finalAppId = match[1];
+        } else {
+          throw new Error('Invalid Play Store link format');
+        }
+      }
+
       // Validate app ID format
-      if (!formData.appId.match(/^[a-zA-Z0-9_.]+$/)) {
+      if (!finalAppId.match(/^[a-zA-Z0-9_.]+$/)) {
         throw new Error('Invalid App ID format');
       }
 
       // Check if app already exists
-      const checkResponse = await fetch(`/api/checkApp/${formData.appId}`);
+      const checkResponse = await fetch(`/api/checkApp/${finalAppId}`);
       if (!checkResponse.ok) throw new Error('Network response was not ok');
       const checkData = await checkResponse.json();
 
@@ -57,7 +70,7 @@ const CreatePost = () => {
         return;
       }
 
-      const response = await fetch(`/api/app/${formData.appId}`);
+      const response = await fetch(`/api/app/${finalAppId}`);
       if (!response.ok) throw new Error('Network response was not ok');
       const data = await response.json();
 
@@ -103,7 +116,7 @@ const CreatePost = () => {
       <Box maxW="xl" mx="auto" mt={8} p={6} borderWidth={1} borderRadius="lg">
         <form onSubmit={handleSubmit}>
           <VStack spacing={4}>
-            <FormControl isRequired>
+            <FormControl>
               <FormLabel>App ID</FormLabel>
               <Input
                 value={formData.appId}
@@ -111,6 +124,16 @@ const CreatePost = () => {
                 placeholder="com.example.app"
               />
               <FormHelperText>App ID must be alphanumeric and can include underscores and periods.</FormHelperText>
+            </FormControl>
+
+            <FormControl>
+              <FormLabel>Or Play Store Link</FormLabel>
+              <Input
+                value={formData.appLink}
+                onChange={(e) => setFormData({ ...formData, appLink: e.target.value })}
+                placeholder="https://play.google.com/store/apps/details?id=com.example.app"
+              />
+              <FormHelperText>Enter the full Play Store URL of the app</FormHelperText>
             </FormControl>
 
             <FormControl isRequired>

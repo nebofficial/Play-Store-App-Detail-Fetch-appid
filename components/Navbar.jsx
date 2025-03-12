@@ -26,7 +26,10 @@ const Navbar = () => {
             Browse Apps
           </Button>
           <Button as={RouterLink} to="/create" colorScheme="whiteAlpha">
-            Add New App
+            Add App (URL)
+          </Button>
+          <Button as={RouterLink} to="/manual-add" colorScheme="whiteAlpha">
+            Add App (Manual)
           </Button>
         </Flex>
       </Flex>
@@ -41,7 +44,10 @@ const Navbar = () => {
             Browse Apps
           </Button>
           <Button as={RouterLink} to="/create" w="full" colorScheme="whiteAlpha">
-            Add New App
+            Add App (URL)
+          </Button>
+          <Button as={RouterLink} to="/manual-add" w="full" colorScheme="whiteAlpha">
+            Add App (Manual)
           </Button>
         </Stack>
       </Box>

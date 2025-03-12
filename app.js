@@ -76,6 +76,44 @@ app.get('/api/app/:appId', async (req, res) => {
   }
 });
 
+// Add route for manual app submissions
+app.post('/api/manual', (req, res) => {
+  try {
+    const appData = req.body;
+    
+    // Read existing data
+    const data = fs.readFileSync(filePath, 'utf8');
+    const apps = JSON.parse(data);
+
+    // Check if app with same appId already exists
+    const existingAppIndex = apps.findIndex(app => app.appId === appData.appId);
+    
+    if (existingAppIndex !== -1) {
+      // Update existing app
+      apps[existingAppIndex] = {
+        ...apps[existingAppIndex],
+        ...appData,
+        updated: Date.now(),
+        fetchedAt: new Date().toISOString()
+      };
+    } else {
+      // Add new app
+      apps.push({
+        ...appData,
+        fetchedAt: new Date().toISOString()
+      });
+    }
+
+    // Write back to file
+    fs.writeFileSync(filePath, JSON.stringify(apps, null, 4));
+
+    res.json({ success: true, message: 'App data saved successfully' });
+  } catch (error) {
+    console.error('Error saving app data:', error);
+    res.status(500).json({ error: 'Failed to save app data' });
+  }
+});
+
 // Route to get all apps - move this before the catch-all route
 app.get('/api/getApps', (req, res) => {
   try {

@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar';
 import Posts from '../pages/Posts';
 import CreatePost from '../pages/CreatePost';
 import SingleAppView from '../pages/SingleAppView';
+import ManualAppForm from '../components/ManualAppForm';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
           <Route path="/" element={<Posts />} />
           <Route path="/posts" element={<Posts />} />
           <Route path="/create" element={<CreatePost />} />
+          <Route path="/manual-add" element={<ManualAppForm />} />
           <Route path="/app/:appId" element={<SingleAppView />} />
         </Routes>
       </Router>

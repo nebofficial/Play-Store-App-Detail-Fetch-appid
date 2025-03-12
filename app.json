@@ -533,5 +533,910 @@
         "appId": "com.zapak.golmaaljunior",
         "url": "https://play.google.com/store/apps/details?id=com.zapak.golmaaljunior&hl=en&gl=us",
         "fetchedAt": "2025-03-11T22:05:13.955Z"
+    },
+    {
+        "title": "Grimvalor",
+        "description": "Slash your way through the hordes of darkness and defeat King Valor's fearsome guardians in this breathtaking RPG adventure!\n\n★ Play the first act for free! A single purchase unlocks the full premium game. ★\n\n(The free first act has 1-2+ hours of gameplay, which you can replay as many times as you want. Unlocking the full game allows you to continue further and experience all five acts.)\n\n\"Chaining together a slick series of attacks, dodges, and jumps, is incredibly satisfying.\" — PocketGamer\n\nA malicious power stirs in the forgotten kingdom of Vallaris. Tasked with discovering the fate of its lost king, your quest quickly takes a sinister turn and you are cast into darkness. Surrounded and outnumbered, you must grab your sword, steel your temper and fight your way through a land that does not welcome you. Except for the friendly merchant - he's grateful for your business.\n\nABOUT THE GAME\nGrimvalor is a challenging hack & slash platformer with fast-paced combat in a dark fantasy world. Take control of a lone warrior on a quest to restore a corrupted realm. Embark on a journey through atmospheric landscapes and dungeons in a massive story-driven premium experience.\n\nCOMBAT & EXPLORATION\nMaster skill-based combat, learn enemy patterns and bring them down with all your fury. Explore the shattered lands of Vallaris, find and upgrade equipment and level up your character. Face the legacy of King Valor's madness and prevail!\n\nFEATURES\n☆ Supports Android Game Controllers\n☆ Accurate and customizable touch controls\n☆ Epic boss fights\n☆ Stunning 3D visuals optimized for a variety of Android devices\n☆ Uses Play Saved Games to keep your saves in sync between devices\n☆ Play offline - perfect for commute",
+        "descriptionHTML": "Slash your way through the hordes of darkness and defeat King Valor&#39;s fearsome guardians in this breathtaking RPG adventure!<br><br>★ <b>Play the first act for free!</b> A single purchase unlocks the full premium game. ★<br><br>(The free first act has 1-2+ hours of gameplay, which you can replay as many times as you want. Unlocking the full game allows you to continue further and experience all five acts.)<br><br>&quot;Chaining together a slick series of attacks, dodges, and jumps, is incredibly satisfying.&quot; — PocketGamer<br><br>A malicious power stirs in the forgotten kingdom of Vallaris. Tasked with discovering the fate of its lost king, your quest quickly takes a sinister turn and you are cast into darkness. Surrounded and outnumbered, you must grab your sword, steel your temper and fight your way through a land that does not welcome you. Except for the friendly merchant - he&#39;s grateful for your business.<br><br><b>ABOUT THE GAME</b><br>Grimvalor is a challenging hack &amp; slash platformer with fast-paced combat in a dark fantasy world. Take control of a lone warrior on a quest to restore a corrupted realm. Embark on a journey through atmospheric landscapes and dungeons in a massive story-driven premium experience.<br><br><b>COMBAT &amp; EXPLORATION</b><br>Master skill-based combat, learn enemy patterns and bring them down with all your fury. Explore the shattered lands of Vallaris, find and upgrade equipment and level up your character. Face the legacy of King Valor&#39;s madness and prevail!<br><br><b>FEATURES</b><br>☆ Supports Android Game Controllers<br>☆ Accurate and customizable touch controls<br>☆ Epic boss fights<br>☆ Stunning 3D visuals optimized for a variety of Android devices<br>☆ Uses Play Saved Games to keep your saves in sync between devices<br>☆ Play offline - perfect for commute",
+        "summary": "Hack-em-up platformer set in a dark fantasy world.",
+        "installs": "5,000,000+",
+        "minInstalls": 5000000,
+        "maxInstalls": 5473309,
+        "score": 4.6975217,
+        "scoreText": "4.7",
+        "ratings": 120387,
+        "reviews": 5147,
+        "histogram": {
+            "1": 2978,
+            "2": 781,
+            "3": 3680,
+            "4": 14740,
+            "5": 98179
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$6.99 per item",
+        "androidVersion": "7.0",
+        "androidVersionText": "7.0",
+        "androidMaxVersion": "VARY",
+        "developer": "Direlight",
+        "developerId": "Direlight",
+        "developerEmail": "playsupport@direlight.com",
+        "developerWebsite": "https://direlight.com/",
+        "developerAddress": "Kauppakatu 19 A 9\n40100 Jyväskylä\nFinland",
+        "developerLegalName": "Direlight Oy",
+        "developerLegalEmail": "playsupport@direlight.com",
+        "developerLegalAddress": "Ristonmaantie 3A 5, 40500 JYVÄSKYLÄ, Finland",
+        "developerLegalPhoneNumber": "+358 40 1513460",
+        "privacyPolicy": "https://direlight.com/privacy/",
+        "developerInternalID": "Direlight",
+        "genre": "Action",
+        "genreId": "GAME_ACTION",
+        "categories": [
+            {
+                "name": "Action",
+                "id": "GAME_ACTION"
+            },
+            {
+                "name": "Platformer",
+                "id": null
+            },
+            {
+                "name": "Hack & slash",
+                "id": null
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Fantasy",
+                "id": null
+            },
+            {
+                "name": "Dark fantasy",
+                "id": null
+            },
+            {
+                "name": "Intense",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/riwqU-F5SXl8XW0icEWtQo5rA79-zbt9S9HlFWz0tJI81x2kmDXkG8u4LRw0YKgxf6g",
+        "headerImage": "https://play-lh.googleusercontent.com/3KIqv-KhNLRWjPTnzI-xN3NIKvaZ2ur2MuknEiti0TglEBfPFm6yPqr92v9BIMNQjadH",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/2_0diZ8Kn9iSGqYAQwDYADaXOOs3ss9D6thCfj7fr3nwz6JUY0VjPskmQxheZ8yV3RV4",
+            "https://play-lh.googleusercontent.com/KKVvu-bpB6jZCWk9LQJaSbAqO1kKCXsiPXyUqBGUHuZjhWy2A3VCKW7d3V3ObP9abrc",
+            "https://play-lh.googleusercontent.com/r4NfnRbZ5Gq27QgWwBcEp9VH_KCDAG902IzmtZRQyAo1Qh9bZYPaX2JTN7vGnaoCG2xg",
+            "https://play-lh.googleusercontent.com/r20vr7kU3XQpsCoVxJKWqaofZZNHHCHzgfTsLcy6EUQyBdUtoxNtS1Z3hICr9Z_hesRB",
+            "https://play-lh.googleusercontent.com/3nFHTEQT7_1R-c_IVH_qA1Q0lbuiogPqVXA_jlGNsEkefQaaKNIuCC2lVfSlDedfUrg",
+            "https://play-lh.googleusercontent.com/2kC0qJP_0IMzG7xXFqSI-N_apiqVnF484j3uTlrqVrPdqofJVmkF6ORCKjl8uQS0Vwc",
+            "https://play-lh.googleusercontent.com/3kIWxnsqpWQOv6A2eyCFo14a9edmldRUh0gVG3U98vlym8xMWQbQj839Qho0kwJSkg",
+            "https://play-lh.googleusercontent.com/DNIqwtkXdJZFQvF1gRboLUriZ7je6PPfnc15OZjbvTMSevSIX-Jk7JYLk9uaI3Pr0_o9",
+            "https://play-lh.googleusercontent.com/3nLgD2v9Nd3wVZDJvm8OeJq54Rfh9APYcKR32yOX-h7S57CFxNWjw3sT4jP7_9oMjZM",
+            "https://play-lh.googleusercontent.com/jX8HXGJt4B3QXLkwn1XMJcu29YmZBV7860mje3-5DCn15jW1bUI-xxZ9nAASF2gJSNA",
+            "https://play-lh.googleusercontent.com/SZ1U028sF4rt6Yf4kyg-d8bI8iQYBUlOlbL1BFSDf-skby81wkQYxhSuZIeB9uLCI0Q",
+            "https://play-lh.googleusercontent.com/vq72jFBmm2idE8fSI2HtjgKsN1RXUe1ANtEYt7FD71rRfohGFTczCRT0Ps-johXihTAV",
+            "https://play-lh.googleusercontent.com/FRsbuPLDYMwkRSlqjuLuLZXvzbpcgYATeH2IfavNASVvqX7-B0LPoFQGZmeae9QltA",
+            "https://play-lh.googleusercontent.com/GeVxHqzPgjjGIOGFJTJABRoTVQqasVbYmnnEa7S6PpxjleeuP1PiV4lj1iIgPFL6TQyH",
+            "https://play-lh.googleusercontent.com/lDc-hS0aBAMr6mEE0FTaVue_mpllfb17xxuA7D7PnaLH_thvrDeCbPpoiwxG9pcpskk",
+            "https://play-lh.googleusercontent.com/hxUvET73CF8SGYElCzmjsfhXBANlmsbRBq_30bkLyRL6sZOOIq3NRRIvBtYhWKx0Ow",
+            "https://play-lh.googleusercontent.com/Dz6JuZYKP51Wq3uphxZRjQz6TfLxg2rBkIWtFwlR-qCLpGJcFTXlNruNcFLI_2uTYWD5",
+            "https://play-lh.googleusercontent.com/or1kxMWUIeWk6x30fWduYcT6Ji5ZV5wjcwvxFM9dIbRx7E8Bz07MgktGDjbF0NStFw",
+            "https://play-lh.googleusercontent.com/1THE88ebXQiayyXiZq5WQQmJ8IVx3O0dnTnbWXinIzTN7IDVyGyN0FH3MeGgVPrtEA",
+            "https://play-lh.googleusercontent.com/ag-uQK3NIT7bIEj79NPmTnnqFVpG0difBJpEu3lOT92C1QGPqSRnS_XSI15-STMEbV4",
+            "https://play-lh.googleusercontent.com/IDc9WAqjBu3vDZKWkguEjLnibHM10R0R30Iud4nnrX3IMKSdDKETug8gulzbAJ0Mek8",
+            "https://play-lh.googleusercontent.com/_2YoqPox-dwOKvjQDzW2yjXd_2LMmrkc4w_VkiZjq3xbnPZIEIfL3fvLZsNeVTztWgY",
+            "https://play-lh.googleusercontent.com/iq7ErjgyOi4ttZ99lf4KYLY0dlxuZu9PZBxpYfLSrdx3jh66upOUT5ywpXPTlbe4aaGh",
+            "https://play-lh.googleusercontent.com/M6PT3Kif4cdZbsyWxSG1gIDCy3cya9TzhoutOooupos911zOKpUYbpTvAsTj9N7N8ls"
+        ],
+        "video": "https://www.youtube.com/embed/s9jZtfAAXYw?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/3KIqv-KhNLRWjPTnzI-xN3NIKvaZ2ur2MuknEiti0TglEBfPFm6yPqr92v9BIMNQjadH",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/s9jZtfAAXYw.mp4",
+        "contentRating": "Teen",
+        "contentRatingDescription": "Violence, Blood",
+        "adSupported": true,
+        "released": "Jun 10, 2019",
+        "updated": 1739957990000,
+        "version": "1.2.9",
+        "recentChanges": "• Adds in-game gamepad controls configuration. You can now bind buttons on your controller as you choose!<br>• Optimized for new devices and Android versions.",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": true,
+        "appId": "com.direlight.grimvalor",
+        "url": "https://play.google.com/store/apps/details?id=com.direlight.grimvalor&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T14:41:19.677Z"
+    },
+    {
+        "title": "Alpha Guns 2",
+        "description": "Welcome to the future, metal soldier!\n\nOur Hero Max is back, the long-awaited sequel of Alpha guns is here with a lot more exciting levels including various types of enemies and strong bosses. Be careful though, the enemies and bosses have got some serious new equipment.\n\nIn this metal shooting game, the enemies and bosses are all around and you are an alpha soldier who has to protect everyone from this major mayhem!\n\nGame Features :\n+ Classic arcade gameplay\n+ Challenging levels & addictive game-play.\n+ Lots of bosses and tanks to fight.\n+ Easy to use smooth control scheme.\n+ Amazing graphics, cool music and sound.\n+ Classic action game. \n\nWhat is Alpha Guns 2 all about?\nAlpha Guns 2 comes among the top platform shooting games and action adventure games, where you are a Contra soldier named Max who has to save the Earth from extinction! And how will you do that? By using machine guns, enemy chaser, wide guns, metal slug, and so much more!\n\nYou will deal with different armed enemies in this metal shooting game, so shoot them down before they come close to you with your heavy machine guns, wide guns, metal slug, and much more! Remember one thing contra soldier, pick up guns on your way to get additional ammo! \n\nThis metal shooter game has an action-packed world war gameplay, which is easy to learn but tough to master!  \n\nTry to compete with other players on the leaderboard and with achievements to show everyone who is the best.\n\nBe a hero and save the world in Alpha Guns 2 where you can jump and shoot all the various enemies like tanks, drones, powerful bosses, sentries, and much more. They have many weapons that they can use such as shotguns, grenades, rocket launchers, laser guns, and other dangerous weapons.\n\nUse special powers such as an airstrike, heavy machine gun drone, light machine gun drone, and syringes which make you immortal for the duration. Switch your weapons and carry multiple powerful weapons like a Chaser gun, Phoenix machine gun, Nuclear blaster, Weapon X and more to continue the fight as a mini militia! \n\nWith original missions to explore and many achievements to complete you will always have a new challenge waiting for you. The game is very easy to play and is completely FREE! It can also be played offline when necessary. While being a mini militia we can provide good support in the war!\n\nOne of the best action games for Android with metal slug! If you love action adventure games then Alpha Guns 2 will suit you best! As it comes among the top action games on Android!\n\nBe the force of a mini militia and protect the world against dangerous foes.\n\nDownload this metal shooter game and put an end to this major mayhem happening around!  \n\n\n\nNote: More Updates coming soon\n\nContact us on support@renderedideas.com if you need any help!",
+        "descriptionHTML": "Welcome to the future, metal soldier!<br><br>Our Hero Max is back, the long-awaited sequel of Alpha guns is here with a lot more exciting levels including various types of enemies and strong bosses. Be careful though, the enemies and bosses have got some serious new equipment.<br><br>In this metal shooting game, the enemies and bosses are all around and you are an alpha soldier who has to protect everyone from this major mayhem!<br><br>Game Features :<br>+ Classic arcade gameplay<br>+ Challenging levels &amp; addictive game-play.<br>+ Lots of bosses and tanks to fight.<br>+ Easy to use smooth control scheme.<br>+ Amazing graphics, cool music and sound.<br>+ Classic action game. <br><br>What is Alpha Guns 2 all about?<br>Alpha Guns 2 comes among the top platform shooting games and action adventure games, where you are a Contra soldier named Max who has to save the Earth from extinction! And how will you do that? By using machine guns, enemy chaser, wide guns, metal slug, and so much more!<br><br>You will deal with different armed enemies in this metal shooting game, so shoot them down before they come close to you with your heavy machine guns, wide guns, metal slug, and much more! Remember one thing contra soldier, pick up guns on your way to get additional ammo! <br><br>This metal shooter game has an action-packed world war gameplay, which is easy to learn but tough to master!  <br><br>Try to compete with other players on the leaderboard and with achievements to show everyone who is the best.<br><br>Be a hero and save the world in Alpha Guns 2 where you can jump and shoot all the various enemies like tanks, drones, powerful bosses, sentries, and much more. They have many weapons that they can use such as shotguns, grenades, rocket launchers, laser guns, and other dangerous weapons.<br><br>Use special powers such as an airstrike, heavy machine gun drone, light machine gun drone, and syringes which make you immortal for the duration. Switch your weapons and carry multiple powerful weapons like a Chaser gun, Phoenix machine gun, Nuclear blaster, Weapon X and more to continue the fight as a mini militia! <br><br>With original missions to explore and many achievements to complete you will always have a new challenge waiting for you. The game is very easy to play and is completely FREE! It can also be played offline when necessary. While being a mini militia we can provide good support in the war!<br><br>One of the best action games for Android with metal slug! If you love action adventure games then Alpha Guns 2 will suit you best! As it comes among the top action games on Android!<br><br>Be the force of a mini militia and protect the world against dangerous foes.<br><br>Download this metal shooter game and put an end to this major mayhem happening around!  <br><br><br><br>Note: More Updates coming soon<br><br>Contact us on support@renderedideas.com if you need any help!",
+        "summary": "Be a metal soldier and save the world in this ultimate Action Game!",
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "maxInstalls": 17251901,
+        "score": 4.5966387,
+        "scoreText": "4.6",
+        "ratings": 71122,
+        "reviews": 768,
+        "histogram": {
+            "1": 3284,
+            "2": 2687,
+            "3": 2687,
+            "4": 2090,
+            "5": 60343
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $49.99 per item",
+        "androidVersion": "7.0",
+        "androidVersionText": "7.0",
+        "androidMaxVersion": "VARY",
+        "developer": "Rendered Ideas",
+        "developerId": "6256141919349101796",
+        "developerEmail": "support@renderedideas.com",
+        "developerWebsite": "http://www.renderedideas.com",
+        "developerAddress": "Office 4 - 8, Bldg 55, Station road, Mira road, Mumbai, Maharashtra 401107, India",
+        "developerLegalName": "Rendered Ideas Softgame Private Limited",
+        "developerLegalEmail": "support@renderedideas.com",
+        "developerLegalAddress": "Office No. 5, Plot No. 55, S. No 508, Rose Bldg, Opp. Asmita Super Market, Station Road, Mira Road, Thane, Maharashtra 401107, India",
+        "developerLegalPhoneNumber": "+91 98678 94435",
+        "privacyPolicy": "https://www.renderedideas.com/privacy-policy/",
+        "developerInternalID": "6256141919349101796",
+        "genre": "Action",
+        "genreId": "GAME_ACTION",
+        "categories": [
+            {
+                "name": "Action",
+                "id": "GAME_ACTION"
+            },
+            {
+                "name": "Platformer",
+                "id": null
+            },
+            {
+                "name": "Run & gun",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/IbzhDnLUmNK3b2N6I0ivkAPOUGvHjg-0KaQsXUg4nNvnsAIFuQ3zr1cuFy1ne0jdivI",
+        "headerImage": "https://play-lh.googleusercontent.com/yRAOrhU5_qfhbtHd-BN9ZPf8bH5YqHp82v_fe6J8v5AnIEo9qvIWNMC2jyIWDI3jGsM",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/v9vJp17-qObZuIp0rZuQBAQ-W-fVDq_-hfum4l36gApEmXSHqUOdMggHuPjWSnQt2WSC",
+            "https://play-lh.googleusercontent.com/ui3kMsgJXss6RedJm6Bun28Bl7quTfPh7w1lz9beC73iw8xAeetn-wTZ5JU8TKQnUQ",
+            "https://play-lh.googleusercontent.com/ArKsZ2wsxefrS01MbMzCBfYDRtdYLMdlip7F_jhChdpF7vttzk9bMGlTTmktvQDatdU",
+            "https://play-lh.googleusercontent.com/BpFVsezdaMkX6HhJ0SPH7d-i1DjvomGmWIjV2XAUlzYIMW4PEqxq94CxfP7YkAu_x1M",
+            "https://play-lh.googleusercontent.com/aikW6VUeeSJ08KT0sOL9DG0YqsQXjJMKekE75Jzpp0wxaT4nixwNhZGsiWIKl8YPWg",
+            "https://play-lh.googleusercontent.com/Q5Z_4v2b3PWGOtBDjYLdGmWXt4OVW61D51ozF7l4VuOxgV4FoMuZDz1DLuKkWqbMW2QK",
+            "https://play-lh.googleusercontent.com/uomSHQjQqW6wX-SOBmF4nabyygS81ruZLx3e8VwTHkwB5gTngnJa494-TrdM8C1eGsg",
+            "https://play-lh.googleusercontent.com/pUGLD85PD8LLNtR4FtxEPAkkWqTFvXuiWxAJ1pLz-y9mb_FkgCmr5xjTlcNloG222HbC",
+            "https://play-lh.googleusercontent.com/9t4bDU8YtkLwb3QyGvulHoOH6C-8zucFlwf5rAwUgAnEGhw6KKZfD1fQi2ERMVOZLw",
+            "https://play-lh.googleusercontent.com/who6EiChBel4G6WUz8YZ6LiBnHd_41BpqithZ9VsIBRSQooa9spbIC2SDCb0tHtOvQ",
+            "https://play-lh.googleusercontent.com/Oqtp8fuq7AwWFWRR4jevzdOpkn4cvjrmexz2FzARvCfgjJ_I7Aox0yJJMVesCmlSz3E",
+            "https://play-lh.googleusercontent.com/D3fc6Y2kZxGE3r91JnlqGqooDLLViwhIEL_NKlKqPBQNGpWhz595Dwr50mV4y4nJfJM",
+            "https://play-lh.googleusercontent.com/ZZOkw6XaX1OaqTwyWjnYMBGmX69XV4u9fCo5yLabe3rerwrfYLVrfLX3ciVEYVwG_A",
+            "https://play-lh.googleusercontent.com/F-ZZCY2S0Fb2TwYZQTH3Ws-xcUNa43fqU1tJIJ83lpP4dWM-tJ6bpAV-vvqMKmS9qc4",
+            "https://play-lh.googleusercontent.com/Z4I5Zxe5CGkrMhAFcKWX5hjBbjuhPkjEUnAbe0BrlZAL_rXyGWhMHQiHgMKOom8EeNM",
+            "https://play-lh.googleusercontent.com/JBXdZMCcwP5SA2Wph6E3ywZSUA1hwxgpJtsUzcDjtneieGBo5frxSCe3387zKxDgbQ8D",
+            "https://play-lh.googleusercontent.com/6shPaOIlB0cXGROUUZAeR9xYHcN5tN5DSLMziYfZiOnVTlSmLO30gEsd-sOaUxqODpM",
+            "https://play-lh.googleusercontent.com/5qH1LkmKKs3d_3wc2KSdDplUR6qUOGSt7RrxCJYk8LWBHN5WIkHdWW-SX9Ybqvzb1KY"
+        ],
+        "video": "https://www.youtube.com/embed/dFDugZUUfFc?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/yRAOrhU5_qfhbtHd-BN9ZPf8bH5YqHp82v_fe6J8v5AnIEo9qvIWNMC2jyIWDI3jGsM",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/dFDugZUUfFc.mp4",
+        "contentRating": "Teen",
+        "contentRatingDescription": "Violence, Blood",
+        "adSupported": true,
+        "released": "Jan 26, 2018",
+        "updated": 1737970890000,
+        "version": "336.0",
+        "recentChanges": "Lot more improvements and bug fixes",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": true,
+        "appId": "com.renderedideas.alphaguns2",
+        "url": "https://play.google.com/store/apps/details?id=com.renderedideas.alphaguns2&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T14:45:07.499Z"
+    },
+    {
+        "title": "Carrom Party",
+        "description": "Carrom Party is an exciting game where your goal is to pot all your pucks before your opponent to win the game. It is an easy-to-play board game with simple game-play, smooth controls and exciting rewards. \n\nYou can play the Classic mode where you can compete with players from around the world.\n\nYou can also play in the Challenge mode where you can demonstrate your awesome Carrom skills and take them to the next level.\n\nKeep playing the game to earn coins and enter various arenas across the world and compete with other players.\n\nThe more you play the more coins you can win.\n\nFeatures:\n-Win Daily rewards\n-Unlock emojis and skins for your pucks\n-Improve your Carrom skills \n-Play around the world and visit beautiful places\n-Play offline with your friends",
+        "descriptionHTML": "Carrom Party is an exciting game where your goal is to pot all your pucks before your opponent to win the game. It is an easy-to-play board game with simple game-play, smooth controls and exciting rewards. <br><br>You can play the Classic mode where you can compete with players from around the world.<br><br>You can also play in the Challenge mode where you can demonstrate your awesome Carrom skills and take them to the next level.<br><br>Keep playing the game to earn coins and enter various arenas across the world and compete with other players.<br><br>The more you play the more coins you can win.<br><br>Features:<br>-Win Daily rewards<br>-Unlock emojis and skins for your pucks<br>-Improve your Carrom skills <br>-Play around the world and visit beautiful places<br>-Play offline with your friends",
+        "summary": "Play multiplayer carrom board game online with your friends. Be a Carrom King.",
+        "installs": "500,000+",
+        "minInstalls": 500000,
+        "maxInstalls": 806503,
+        "score": 4.4,
+        "scoreText": "4.4",
+        "ratings": 1249,
+        "reviews": 4,
+        "histogram": {
+            "1": 166,
+            "2": 0,
+            "3": 0,
+            "4": 83,
+            "5": 999
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $49.99 per item",
+        "androidVersion": "7.0",
+        "androidVersionText": "7.0",
+        "androidMaxVersion": "VARY",
+        "developer": "Rendered Ideas",
+        "developerId": "6256141919349101796",
+        "developerEmail": "support@renderedideas.com",
+        "developerWebsite": "https://www.renderedideas.com",
+        "developerAddress": "Office 4 - 8, Bldg 55, Station road, Mira road, Mumbai, Maharashtra 401107, India",
+        "developerLegalName": "Rendered Ideas Softgame Private Limited",
+        "developerLegalEmail": "support@renderedideas.com",
+        "developerLegalAddress": "Office No. 5, Plot No. 55, S. No 508, Rose Bldg, Opp. Asmita Super Market, Station Road, Mira Road, Thane, Maharashtra 401107, India",
+        "developerLegalPhoneNumber": "+91 98678 94435",
+        "privacyPolicy": "https://www.renderedideas.com/privacy-policy/",
+        "developerInternalID": "6256141919349101796",
+        "genre": "Board",
+        "genreId": "GAME_BOARD",
+        "categories": [
+            {
+                "name": "Sports",
+                "id": "GAME_SPORTS"
+            },
+            {
+                "name": "Billiards",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Multiplayer",
+                "id": null
+            },
+            {
+                "name": "Competitive multiplayer",
+                "id": null
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Realistic",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/HA7udvbzfQFRaBhmIkrpiFL0Z0avWfz8dHcd84vRynu6aEfUCH7Biolp7l-hfAG-a74",
+        "headerImage": "https://play-lh.googleusercontent.com/AJudAFc_oJcHSVEOHfRneFyHjJfHvcDhKH9JKpGwfQMdfypZBOqFtP1Cf0nETIJbxaJu",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/F3C2NTlcenjMFs3f1K5YpiAeWfomoGoyPewFcl-VVJmai2O9ByuogiK03GYRPzRE0aY",
+            "https://play-lh.googleusercontent.com/k9YJEp0r3frHeMHEO6L9rd-qbvsqLvhu1LfcJS4JHCPMntSDU6ruYAC-1jH_WmWntNsY",
+            "https://play-lh.googleusercontent.com/rdK5DAtCf1XMWjSKKFUgeadSMizz5kASjUfixG-UGBnVRQw_yvDvgu-F34z4zTGSmPA",
+            "https://play-lh.googleusercontent.com/WIfufiatyZe_fWvRicIMh6N4rFU4DQG-wQXmO66PqaFWGyUhz25CH9IXnL8qDYD-yA",
+            "https://play-lh.googleusercontent.com/bITcA2C2xIOYKopSgLPONXUGazs5J4Vz6LQu7CmNiWYyNRQC4zLGXxGCm0c23yBiQbo",
+            "https://play-lh.googleusercontent.com/0GemCmuEmolmdRClDkblMuWAFM1dxlC7ynxB9buTfSez0CRmnGE8dxU2wCuFQyp-_uE",
+            "https://play-lh.googleusercontent.com/5yWwhqkYY95J42MlTPOzbey8SmS0_lTaqXF27inj1z8OAVdu-HagRAX6QMI9p3GgCd0",
+            "https://play-lh.googleusercontent.com/5K_mQF8VGI2PVI0qejzXrNrFoIcEh2XOHcVCiLxHLAPyAa8uYZV3PKMkoRqAPP-4PN0",
+            "https://play-lh.googleusercontent.com/cj1EEDQnkj7HEG4BsVYD8rYya4JSXvbyl1VS78-v-EQceyQdakOniYmL3Wd0yqiWS2Q",
+            "https://play-lh.googleusercontent.com/8vLc7_4dADH7gbI4lLaOo2Xt_SeKUeCqnrQaeRFFe8oW1p4oTnGW83yApnkAv0js9A",
+            "https://play-lh.googleusercontent.com/edTNmnbSnnECUVb1__URWavgAY_xbf-1Y5aK_kLzVBn-F4gq1GgGDl6n4wNvIRe5U4o",
+            "https://play-lh.googleusercontent.com/0kOdbd1-6Knid_B0Ei_MA5sVgYFX3MMbCuxSyIXeU0gLBw3OcPs5u6CyezghK0Rm-Q",
+            "https://play-lh.googleusercontent.com/AqiPcG36MQWcb-Dgkbdw24pArZxLJAu8ieqQC0cgdLNc1iVTcFQ728F06CHk8y1BWWI",
+            "https://play-lh.googleusercontent.com/nKUpltBOQnHdB4N8k6se4KqobvOJ4qLRCeUlJaX9bwtCPgdwLxcdP8W98NZGxIT-YIzz",
+            "https://play-lh.googleusercontent.com/SM2dw9UC1EzzR2kl7NqRf4WgOIH_o3cTCuavQZYqh8DjETEFSuCJMM3aJHubGUF8jCM",
+            "https://play-lh.googleusercontent.com/PNBKyutnX8G4msvSaoCB4y0L7e6AQINzPvqI0ArD7C40XuwXLyEYz7RVA1Wl8xxalMU",
+            "https://play-lh.googleusercontent.com/07hASP9tMDXjiQYmtHWOSVEPRQVfhnqRha4SzBxftdzUfrSLaI0q3qc9tljPzGB-MOE",
+            "https://play-lh.googleusercontent.com/OM4GibfPwWK4VhF60OG3O4ybVI8fCaFZvxR4ns5cMU9zalAdRIyzqaADiLr4vs8-A7k",
+            "https://play-lh.googleusercontent.com/ynjEFZdsRkZivxsxjxAc8cPwps5OjJyLIi14Q8uSRIgQA2-MUIHXhBv-1F3DaOmgNCQE",
+            "https://play-lh.googleusercontent.com/1bMe6J6LN9dUG3ljSmjnhayQ3WXSlJEnAe1S-i8RSjGs12At1B86VCmbJAyA8J0W7Rk",
+            "https://play-lh.googleusercontent.com/uzyIWMf9FiDqMrQiika5j-CJqBv4qPKHuk0DWXj39oFDlaoj1se8Cnd3IbPOITUYZ9U",
+            "https://play-lh.googleusercontent.com/-wsqmn3R_JB3CFBWo5YRt7oAHkPrNWy4cY65tQFc9QpoU0nE1kzVdYBlOKV8msjDvN0",
+            "https://play-lh.googleusercontent.com/FyeDIm4PUKOZ1k2IiHh284f87dEIXodL3071w70uNU_gOL8t0PVB_8I_b4a_ef_e1lR8",
+            "https://play-lh.googleusercontent.com/dRUHkBsfjFN8aUNukekKhxz4n30r8HpdNoQO8pKGr4Slzj_4U9AO4_4TcAIndpo-rfM"
+        ],
+        "video": "https://www.youtube.com/embed/wn-03dux49Y?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/AJudAFc_oJcHSVEOHfRneFyHjJfHvcDhKH9JKpGwfQMdfypZBOqFtP1Cf0nETIJbxaJu",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/wn-03dux49Y.mp4",
+        "contentRating": "Everyone",
+        "adSupported": true,
+        "released": "May 8, 2023",
+        "updated": 1729947747000,
+        "version": "84.0",
+        "recentChanges": "Bug fixes",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.renderedideas.carromparty",
+        "url": "https://play.google.com/store/apps/details?id=com.renderedideas.carromparty&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T14:47:33.431Z"
+    },
+    {
+        "title": "Pooking - Billiards City",
+        "description": "Relaxed Game of 8 Ball\n\nBilliards City is a modern arcade style pool game with single player, If you love a relaxed game of 8 ball, this is the game for you!\n\nWith Billiards City, gameplay is king! Billiards City uses the latest technology to create the most exciting and realistic billiards simulator. Experience pool like never before, thanks to the stunning HD graphics, fantastic playability and ultra realistic ball physics. Challenge a variety of stylish new level of different ability from beginner right up to pro level. Hone your skills, improve your game and defeat the opposition to gain access to new city bars, win trophies and become the acclaimed Billiards City Champion!\n\nPlay BILLIARDS CITY and become mesmerised by our balls  and  decals, so join us please,  and  just have fun playing pool!!\n\nKey Features\nAmazing Single Player Mode\nPowerful simulation with accurate ball physics\nRealistic 3D ball animation\nTouch control for moving the stick\nSuper smooth controls\n\nGrab a cue and play now!",
+        "descriptionHTML": "Relaxed Game of 8 Ball<br><br>Billiards City is a modern arcade style pool game with single player, If you love a relaxed game of 8 ball, this is the game for you!<br><br>With Billiards City, gameplay is king! Billiards City uses the latest technology to create the most exciting and realistic billiards simulator. Experience pool like never before, thanks to the stunning HD graphics, fantastic playability and ultra realistic ball physics. Challenge a variety of stylish new level of different ability from beginner right up to pro level. Hone your skills, improve your game and defeat the opposition to gain access to new city bars, win trophies and become the acclaimed Billiards City Champion!<br><br>Play BILLIARDS CITY and become mesmerised by our balls  and  decals, so join us please,  and  just have fun playing pool!!<br><br>Key Features<br>Amazing Single Player Mode<br>Powerful simulation with accurate ball physics<br>Realistic 3D ball animation<br>Touch control for moving the stick<br>Super smooth controls<br><br>Grab a cue and play now!",
+        "summary": "Modern arcade style pool game with single player, Relaxed game of 8 ball.",
+        "installs": "100,000,000+",
+        "minInstalls": 100000000,
+        "maxInstalls": 496464191,
+        "score": 4.560323,
+        "scoreText": "4.6",
+        "ratings": 3571355,
+        "reviews": 46690,
+        "histogram": {
+            "1": 100943,
+            "2": 50979,
+            "3": 212036,
+            "4": 589318,
+            "5": 2617999
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $4.99 per item",
+        "androidVersion": "5.0",
+        "androidVersionText": "5.0",
+        "androidMaxVersion": "VARY",
+        "developer": "MOUNTAIN GAME",
+        "developerId": "MOUNTAIN+GAME",
+        "developerEmail": "zhangli332211@gmail.com",
+        "developerWebsite": "http://billiardscity.net/",
+        "developerAddress": "Flat 1802B, Fortress Tower, 250 King's Road, North Piont",
+        "developerLegalName": "AIM TOP GAME TECHNOLOGY LIMITED",
+        "developerLegalEmail": "zhangli332211@gmail.com",
+        "developerLegalAddress": "Rm 902 9/F ONE MIDTOWN, 11 Hoi Shing Rd, 荃灣, Hong Kong",
+        "developerLegalPhoneNumber": "+852 5164 5331",
+        "privacyPolicy": "https://sites.google.com/site/billiardscityprivacy/",
+        "developerInternalID": "MOUNTAIN+GAME",
+        "genre": "Sports",
+        "genreId": "GAME_SPORTS",
+        "categories": [
+            {
+                "name": "Sports",
+                "id": "GAME_SPORTS"
+            },
+            {
+                "name": "Billiards",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Realistic",
+                "id": null
+            },
+            {
+                "name": "Sports",
+                "id": null
+            },
+            {
+                "name": "Pool",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/GX2TaMJf2dWDsDva9feSz8u4b0bP0ldc68Dka9KiZL16HvzcghN9T2jygTlElZNElrE",
+        "headerImage": "https://play-lh.googleusercontent.com/oTznlsRrai2InjedkW_x2EvuEB6hKL0aS9RGVTKpR5OLiK2fDZlbj52H9bFonOdbIoE",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/JlfxPIi1e253a-cy4vwF2HV3EJNurVMpD9nIHmPHLzycVP68j7JwUpREk-7Az6Pk9w",
+            "https://play-lh.googleusercontent.com/x8tZtNFVETFEvg8SrcCAQ6pK5vzmyNdNmsQOwqt8ohsbrqkBRDAdb46-beQyGFvTkQ",
+            "https://play-lh.googleusercontent.com/EtaqFtdy9Qz-coQFd4PMVSnAChFpHBfUvXT4rJrpFsp1DoxcVTU1RQv6MpsJa5Ip-dbc",
+            "https://play-lh.googleusercontent.com/aH70BRACnPAFPhluiF4Mw5jCKNrCVf-fxmTkE6PI12u2wdY0s4u543cXwY1zY1y5EJ8",
+            "https://play-lh.googleusercontent.com/4VBh2KfCKubAcA5OJuJJPFASp_iqb4U0q0A3-qeTDNNVGhUiY4RDBR0M8tN9V5KC4OM",
+            "https://play-lh.googleusercontent.com/TmbAuCN3uvH7aa4PmvL4UDUSX8XEku3f2AGtaSGEZ7zlHcLDd2X61FScXgieGriJh1pd",
+            "https://play-lh.googleusercontent.com/C4pIED5JRPFfdj8fZCA2xZZofGj7j6ayr0T_bl8k6Q0qtFs8iJKIcjMe1kXfHMN0kw",
+            "https://play-lh.googleusercontent.com/7AfK1q0hrmCOG1qycFOGYjvWv9MiZYysHVCv1W6WAHQuwOfW9xxmV5SHcpLwWlTVEi0",
+            "https://play-lh.googleusercontent.com/Dx2ko-iPZxJJu5oKt7xHrqo55g_FzXGUOA1fYwwik3Mhioy_JF4O3Z9ZhJiOcqEoj3Yk",
+            "https://play-lh.googleusercontent.com/lE5Zkza9eGvrHke_ChvrPg5KawT3pajNmpw4nBEQNFP2Pdh92oaAkYDCtb3j5xv8Jr0S",
+            "https://play-lh.googleusercontent.com/pbh69nY5mrmyQ237HOjLidR35tcKedKo8FnqhUO0ur_FjZd6jbjnO0ADqDsWRLOZ2WTS",
+            "https://play-lh.googleusercontent.com/u5Ca1cXQoUUZCwdiCFzPNmVhklBLG9R9NS95on0tfXStbS7P31nq-EgW3llglKEK_g",
+            "https://play-lh.googleusercontent.com/7UQC9nSmcyCvYFAscHrLjxQEGL3tvHeLXhx19oRDggjko5vi0F019vqclvM4y8pGkuk",
+            "https://play-lh.googleusercontent.com/Vz7toItS7N0N-01j6PHsATLZbryff53eueaT7gnwRoyCm1fvENh4PJDlqs9hibnvaa0",
+            "https://play-lh.googleusercontent.com/QHmQOVWqoTraUgLwgRo0j9DKR1b2_obAfvPeePiPXXb0srbSOyuVbzCHcm5YFFrFfA0",
+            "https://play-lh.googleusercontent.com/2bu-aCdaB3Jrttx-6SfRzpOaaR7d8rzblzyl6ceNIlw4W1cI4wOQynjwMNR3I1tHCg",
+            "https://play-lh.googleusercontent.com/hPoa4jiHJBrNL9Q1M2N4tsIC8rkQLkcdvZPbcTfn9Xzp_D-JBq0gH_zFrQS6XggrXRLR",
+            "https://play-lh.googleusercontent.com/FuBJQ-cwy58C3uU5NtRCzABqJulh52KTnWrBtrNFcuhiPRDmuNNbaIikSYhSCGSSRBBF",
+            "https://play-lh.googleusercontent.com/mFNjgLH01UscNUgxuuIXo4j5St7ep4ZqLU9AerDahYYZlhmdGMJCJb6C_4XFv2JqxW4",
+            "https://play-lh.googleusercontent.com/J6t2di7CyyVjJ2Hy8io3AZdl6edOXnII2rguYyvKeJc9-VKyyq5hHjZ-K6X5xMfscEqD",
+            "https://play-lh.googleusercontent.com/he__bKuMKkArj_K26X2xg5qWKAlm3BAdEDSEYtxOV803hqGbUjxUKWgSmwNVkloDSA"
+        ],
+        "video": "https://www.youtube.com/embed/2GtT-ZNr_q4?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/oTznlsRrai2InjedkW_x2EvuEB6hKL0aS9RGVTKpR5OLiK2fDZlbj52H9bFonOdbIoE",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/2GtT-ZNr_q4.mp4",
+        "contentRating": "Everyone",
+        "adSupported": true,
+        "released": "May 15, 2017",
+        "updated": 1740747781000,
+        "version": "3.0.90",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.billiards.city.pool.nation.club",
+        "url": "https://play.google.com/store/apps/details?id=com.billiards.city.pool.nation.club&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T14:47:58.250Z"
+    },
+    {
+        "title": "King Of Defense III: TD game",
+        "description": "King Of Defense III: TD game – Conquer the Tower Defense Arena! 🏰⚔️\nGear up for battle in King Of Defense III: TD game, the ultimate fusion of strategy, action, and adventure! 🎯 This thrilling sequel to the popular King of Defense: Battle Frontier takes tower defense games to unparalleled heights with upgraded heroes, powerful turrets, and relentless invaders that will test your tactical skills. 🛡️👑\n\nIn this strategy game, the signature turret fusion system returns, letting you combine turrets into unique and devastating defensive structures. 💥 Command a team of legendary defense heroes, each with special powers and abilities. Equip your heroes with rare items earned in battle to maximize their potential and turn the tide in epic clashes. 🌟 From defensive tactics to all-out warfare, only the cleverest commanders will prevail. 🔥\n\n🌍 Explore and Conquer Epic Worlds\nEmbark on an unforgettable journey through a variety of beautifully crafted landscapes:\n❄️ Frozen Wastelands – Brave the icy tundra and defend against frozen foes.\n🌵 Blazing Deserts – Hold your ground in the scorching sands against relentless enemies.\n🌌 Divine Realms – Harness heavenly power to protect sacred lands.\n🌳 Enchanted Forest Kingdoms – Battle through magical woods teeming with mystical creatures.\nEach land comes with its own set of challenges and monstrous enemies. 👾 Only the strongest strategists can adapt their defenses to secure victory and restore peace to the realm. 🕊️\n\n🌟 Game Features You’ll Love\n🛠️ Enhanced Turret Fusion: Combine turrets to unlock powerful defenses that stand against any foe.\n🦸 Legendary Heroes: Recruit, train, and upgrade tower defense heroes to lead your armies.\n🎮 Diverse Game Modes: Play through various modes, including PvE, PvP, and Co-Op, each offering unique thrills.\n🐉 Formidable Enemies: Face waves of diverse foes, from cunning invaders to colossal bosses.\n🎵 Immersive Experience: High-definition visuals and a captivating soundtrack bring the battle to life.\n🛡️ Take on the Ultimate Challenge\nThis isn’t just another tower defense TD game—it's a complete castle defense strategy experience! 🏯 Whether you're a fan of empire TD, zombie defense king, or hero TD, you'll find endless excitement in King Of Defense III: TD game. With its dynamic gameplay, frequent updates, and engaging storylines, this game is designed to keep you on the edge of your seat.\n\n🏆 Become the Legend of Tower Defense\nThe kingdom’s survival is in your hands. Assemble your defenses, awaken your heroes’ hidden powers, and develop creative strategies to overcome even the most daunting foes. 💪 Build your legacy as the ultimate tower defense king and prove your mastery in the arena of epic battles! 🌠\n\nWhether you’re defending frozen lands, leading your warriors in scorching deserts, or clashing in mystical realms, King Of Defense III: TD game offers the ultimate test of strategy and skill. 🌟\n\n📲 Download now and start your journey to become a legend in King Of Defense III: TD game! 👑✨",
+        "descriptionHTML": "King Of Defense III: TD game – Conquer the Tower Defense Arena! 🏰⚔️<br>Gear up for battle in King Of Defense III: TD game, the ultimate fusion of strategy, action, and adventure! 🎯 This thrilling sequel to the popular King of Defense: Battle Frontier takes tower defense games to unparalleled heights with upgraded heroes, powerful turrets, and relentless invaders that will test your tactical skills. 🛡️👑<br><br>In this strategy game, the signature turret fusion system returns, letting you combine turrets into unique and devastating defensive structures. 💥 Command a team of legendary defense heroes, each with special powers and abilities. Equip your heroes with rare items earned in battle to maximize their potential and turn the tide in epic clashes. 🌟 From defensive tactics to all-out warfare, only the cleverest commanders will prevail. 🔥<br><br>🌍 Explore and Conquer Epic Worlds<br>Embark on an unforgettable journey through a variety of beautifully crafted landscapes:<br>❄️ Frozen Wastelands – Brave the icy tundra and defend against frozen foes.<br>🌵 Blazing Deserts – Hold your ground in the scorching sands against relentless enemies.<br>🌌 Divine Realms – Harness heavenly power to protect sacred lands.<br>🌳 Enchanted Forest Kingdoms – Battle through magical woods teeming with mystical creatures.<br>Each land comes with its own set of challenges and monstrous enemies. 👾 Only the strongest strategists can adapt their defenses to secure victory and restore peace to the realm. 🕊️<br><br>🌟 Game Features You’ll Love<br>🛠️ Enhanced Turret Fusion: Combine turrets to unlock powerful defenses that stand against any foe.<br>🦸 Legendary Heroes: Recruit, train, and upgrade tower defense heroes to lead your armies.<br>🎮 Diverse Game Modes: Play through various modes, including PvE, PvP, and Co-Op, each offering unique thrills.<br>🐉 Formidable Enemies: Face waves of diverse foes, from cunning invaders to colossal bosses.<br>🎵 Immersive Experience: High-definition visuals and a captivating soundtrack bring the battle to life.<br>🛡️ Take on the Ultimate Challenge<br>This isn’t just another tower defense TD game—it&#39;s a complete castle defense strategy experience! 🏯 Whether you&#39;re a fan of empire TD, zombie defense king, or hero TD, you&#39;ll find endless excitement in King Of Defense III: TD game. With its dynamic gameplay, frequent updates, and engaging storylines, this game is designed to keep you on the edge of your seat.<br><br>🏆 Become the Legend of Tower Defense<br>The kingdom’s survival is in your hands. Assemble your defenses, awaken your heroes’ hidden powers, and develop creative strategies to overcome even the most daunting foes. 💪 Build your legacy as the ultimate tower defense king and prove your mastery in the arena of epic battles! 🌠<br><br>Whether you’re defending frozen lands, leading your warriors in scorching deserts, or clashing in mystical realms, King Of Defense III: TD game offers the ultimate test of strategy and skill. 🌟<br><br>📲 Download now and start your journey to become a legend in King Of Defense III: TD game! 👑✨",
+        "summary": "Join an epic adventure! Protect the kingdom in amazing tower defense battles!",
+        "installs": "100,000+",
+        "minInstalls": 100000,
+        "maxInstalls": 412424,
+        "score": 4.29,
+        "scoreText": "4.3",
+        "ratings": 2599,
+        "reviews": 54,
+        "histogram": {
+            "1": 77,
+            "2": 123,
+            "3": 278,
+            "4": 556,
+            "5": 1531
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.99 - $49.99 per item",
+        "androidVersion": "6.0",
+        "androidVersionText": "6.0",
+        "androidMaxVersion": "VARY",
+        "developer": "JoyUp",
+        "developerId": "6060171320768547426",
+        "developerEmail": "tronghieu.chungkhoan@gmail.com",
+        "developerWebsite": "https://joyupgamestudio.web.app",
+        "developerLegalName": "Nguyễn Trọng Hiếu",
+        "developerLegalEmail": "tronghieu.futurenet@gmail.com",
+        "developerLegalAddress": "CH 12A06 Nhà R5 72A Nguyễn Trãi, Thượng Đình,, Hà Nội 100000, Vietnam",
+        "privacyPolicy": "https://joyupgamestudio.web.app/privacy.html",
+        "developerInternalID": "6060171320768547426",
+        "genre": "Strategy",
+        "genreId": "GAME_STRATEGY",
+        "categories": [
+            {
+                "name": "Strategy",
+                "id": "GAME_STRATEGY"
+            },
+            {
+                "name": "Tower defense",
+                "id": null
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/ZLBISSTtFO5AcDZF2dI6-NGXpmHLuo2Z9yGBgZZf_WRmE_T63u-It1rTaC_GKRF6xP8",
+        "headerImage": "https://play-lh.googleusercontent.com/cfwsi3ZRs5HdT4jNGeezPsxdPW_1BY2s0v35MpcYC0LIyK26gNk167WjP1NfnkRKVA",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/hvYz6IiW5tnook5gPeO6SdMm9vGd_tK8IrNzVY3-Aw7Yea18zW8EeZiUfuLiD9eFdNDT",
+            "https://play-lh.googleusercontent.com/rpAoMfP22MK4GF0Hqmld_epu8OQi4XsWuYJWs3nsbVVR00MAtEHR9mTXA17Byn85wGU",
+            "https://play-lh.googleusercontent.com/J5Fs3IXKZ0L0yDeA1QKbaLe9u71cshFCMxCid4VAUTO_szltfBMhE8PUHwiWB6qbOpU",
+            "https://play-lh.googleusercontent.com/vOr-SCuN1QFVWUtKiGZCEC35lVCu5sVLyqit0tEADTBmEUoFYPQM9hy5F3dwMcG6KQ",
+            "https://play-lh.googleusercontent.com/o429LlLgldL9tCDm2-nVj6d_ESoDlujA2KD6DjJ1q-qjr89JLAo60M44EMfblHh3QfM",
+            "https://play-lh.googleusercontent.com/nHIF0R9XFs60W5HfoGn7sbp9BQsr6VurXPWzFnjX_tOQa5kPPiBiTTfDVx0nrfCBBfA",
+            "https://play-lh.googleusercontent.com/3BClmJvGkjjkhrkQ2HCxAK-lrTQ32Xx9QjraFugXkzwhHTp_XyXYQEI6XH25ASmZZGk",
+            "https://play-lh.googleusercontent.com/MdzgRc1HPCsl1wvoNwOJtwxt1psOAuiiK4ElywRc4hD_lFnXVvgpy5btolHhtzn7oQ",
+            "https://play-lh.googleusercontent.com/n7vC1UTuVN-vna75A_qahAwohsvy5Z8D-_oMuBM-q-yfgF4-5hJGDtpq8pnnVDE1Uw",
+            "https://play-lh.googleusercontent.com/Pud2i2vs5KhSz4xNZK2M8ubDwuwWqwsNDoVOBVPjU02W2rWN0xUPnKyDsmVAQ0lBY_k",
+            "https://play-lh.googleusercontent.com/hw8toTVtE_It-M6x4jUGbK1jwEA_u1hXUF7t5WQj50kez8JjtEgiPwwbWy691q3hng",
+            "https://play-lh.googleusercontent.com/3gqLrtMUI-wYziWPzL_SA57JJzn4gtaT3TvWIHIx-b5Or1dq1wLBIp6XsZ_gUuyuBKM",
+            "https://play-lh.googleusercontent.com/E_Mep9Krwjk8l19q-32fRdnZJC0fmu1-H75qJjqgY82kEIylMusSJcJLDIpzV8GA5Fs",
+            "https://play-lh.googleusercontent.com/l4Zmpj566JALXWieLApgOZGmdpDWBqnz6HTl2G_DS3pCz6g4j1_T66Z2Es_vOL5n1v0",
+            "https://play-lh.googleusercontent.com/VzsIXD0m4hi5OGwDOQ1XEk0q4OJ6REivcOc6Jb9RPCKNp1wyfqBdhRTv-CZ-wKXaSmk",
+            "https://play-lh.googleusercontent.com/W9JZhxjm6pWUr_l-uZnDLd9bTmI0Y5n8LT_mh0XmLRsr-lh4WaDlG-zb9K6n44nO0wM",
+            "https://play-lh.googleusercontent.com/o1ioVod-pLfufMaQ5Sk03iSO_aryZJxubiA9FGs2Yc5QXFghLm5LB6TnHGUHXjQlz8E",
+            "https://play-lh.googleusercontent.com/XB9JrPQ3tG3uCpbhFYUxGZbeBnPMsferA0CzutWLPxJRfH2tmUOXAa1Rzo_s4bIagmRd",
+            "https://play-lh.googleusercontent.com/nUOs08IdxhNDY64q1u6c09VpUi9It7-zCR2GjOvZLL26-HNZESZtF9pCx5p59f7JJB8",
+            "https://play-lh.googleusercontent.com/0XO8PZjjhdg2ljzCyO5bId3IHaW8p32eeA7yTx0SNdFXhqMlYBsX110FWWRNfrywEcA",
+            "https://play-lh.googleusercontent.com/Siqt31RNnjxuPOfFpBpXuJKSNa6AinUZ-FvY6wrLDWqndwsi-FHHKRmNAbreMQPp-GU",
+            "https://play-lh.googleusercontent.com/rlDuw_8SXaGLsxRqDVNUKrSEBIN5LSpE2sOJSBwKewv0AXYqo1mzmo9sa1CEAYuLXpU",
+            "https://play-lh.googleusercontent.com/fRdRFWKu_C6L1Y6nsOh5KQ42-UT2JktS03SHJ3dzLd33TovkK1gg1HUVM6klRHOypdft",
+            "https://play-lh.googleusercontent.com/u5y8zh9Or72oVehN-n8dVtPBzZarn0OkrmJ-ig900GUn_WewEQY3WBNq-whlm0UAaicG"
+        ],
+        "video": "https://www.youtube.com/embed/OvMvwMpubU0?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/cfwsi3ZRs5HdT4jNGeezPsxdPW_1BY2s0v35MpcYC0LIyK26gNk167WjP1NfnkRKVA",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/OvMvwMpubU0.mp4",
+        "contentRating": "Everyone 10+",
+        "contentRatingDescription": "Fantasy Violence",
+        "adSupported": true,
+        "released": "May 17, 2024",
+        "updated": 1741604381000,
+        "version": "1.0.64",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.Gcenter.King.of.Defense.Suvivor.TD",
+        "url": "https://play.google.com/store/apps/details?id=com.Gcenter.King.of.Defense.Suvivor.TD&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T16:30:05.166Z"
+    },
+    {
+        "title": "Swordigo",
+        "description": "Run, jump and slash your way through a vast world of platforming challenges and embark on an epic adventure! The #1 mobile adventure game and a 3D platformer, now also available for Android phones and tablets.\n\n“Swordigo is a love letter to the platforming and adventure games of the past.” — SlideToPlay, 4/4 \n\n“There’s never a dull movement as you hop between platforms and slash your sword against a plethora of enemies.” — Apple’n’Apps, 4.5/5 \n\n“Honestly, if you only buy one game this week, you should choose Swordigo.” — AppAdvice \n\n\nA GREAT ADVENTURE \n• Explore a magical realm of dungeons, towns, treasures and devious monsters. \n• Gain experience and level up your character. \n\nMAGIC AND SWORDS \n• Find powerful weapons, items and spells to defeat your enemies. \n• Venture into gloomy caves and dungeons to discover powerful hidden swords.\n\nSIDE-SCROLLER PLATFORMER GAME\n• Fluid and challenging platforming gameplay designed specifically for mobile devices.\n• Precise touch controls optimized for smartphones and tablets. \n• Customize the controls to your preference.",
+        "descriptionHTML": "Run, jump and slash your way through a vast world of platforming challenges and embark on an epic adventure! The #1 mobile adventure game and a 3D platformer, now also available for Android phones and tablets.<br><br>“Swordigo is a love letter to the platforming and adventure games of the past.” — SlideToPlay, 4/4 <br><br>“There’s never a dull movement as you hop between platforms and slash your sword against a plethora of enemies.” — Apple’n’Apps, 4.5/5 <br><br>“Honestly, if you only buy one game this week, you should choose Swordigo.” — AppAdvice <br><br><br>A GREAT ADVENTURE <br>• Explore a magical realm of dungeons, towns, treasures and devious monsters. <br>• Gain experience and level up your character. <br><br>MAGIC AND SWORDS <br>• Find powerful weapons, items and spells to defeat your enemies. <br>• Venture into gloomy caves and dungeons to discover powerful hidden swords.<br><br>SIDE-SCROLLER PLATFORMER GAME<br>• Fluid and challenging platforming gameplay designed specifically for mobile devices.<br>• Precise touch controls optimized for smartphones and tablets. <br>• Customize the controls to your preference.",
+        "summary": "Run, jump and slash through an epic adventure platformer game.",
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "maxInstalls": 37760079,
+        "score": 4.7672877,
+        "scoreText": "4.8",
+        "ratings": 831468,
+        "reviews": 15577,
+        "histogram": {
+            "1": 15835,
+            "2": 7911,
+            "3": 17556,
+            "4": 71264,
+            "5": 718877
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$1.49 - $1.99 per item",
+        "androidVersion": "5.0",
+        "androidVersionText": "5.0",
+        "androidMaxVersion": "VARY",
+        "developer": "Touch Foo",
+        "developerId": "Touch+Foo",
+        "developerEmail": "playsupport@touchfoo.com",
+        "developerWebsite": "http://www.touchfoo.com/",
+        "developerAddress": "Ristonmaantie 3 A 5\n40500 Jyväskylä\nFinland",
+        "developerLegalName": "Ville Mäkynen",
+        "developerLegalEmail": "playsupport@touchfoo.com",
+        "developerLegalAddress": "Ristonmaantie 3A 5, 40500 JYVÄSKYLÄ, Finland",
+        "developerLegalPhoneNumber": "+358 40 1513075",
+        "privacyPolicy": "https://www.iubenda.com/privacy-policy/674938",
+        "developerInternalID": "Touch+Foo",
+        "genre": "Adventure",
+        "genreId": "GAME_ADVENTURE",
+        "categories": [
+            {
+                "name": "Action",
+                "id": "GAME_ACTION"
+            },
+            {
+                "name": "Platformer",
+                "id": null
+            },
+            {
+                "name": "Hack & slash",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Fantasy",
+                "id": null
+            },
+            {
+                "name": "Medieval fantasy",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/2s1gqtd0C-zQ0-O257nQVR2PGl9ydl6pG6h8V8f3nbGveJvWO6DAKm396HfjkSaFd_A",
+        "headerImage": "https://play-lh.googleusercontent.com/R5ljlU2lcwmpUm8R7mxvlSdoOHeD4kYE1j2KXsXNFE22Ff2Evz9IebzZSJF0oBcqPsqU",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/HTooEEP2g8rO4tZhWj8brwnJSQHkWH_soXPYvEzLAR5VPqpCoBEq8EguiR_mu-hQb6g",
+            "https://play-lh.googleusercontent.com/hNiR5NXkkzbesWLRQAJgqJQsIpk9Jr9SG8i0iWyCudnP8MHb8_HU7U4QcKAhHn1CapI",
+            "https://play-lh.googleusercontent.com/_7zQT6WAm_uQDznGKWCI4R299U2Thys1IdPC6mz3L1F9EBXTdQDlZsj8V0sy2V5aMIw",
+            "https://play-lh.googleusercontent.com/ipYNG-Gt0e-u_eKDuGTCbeAjK0cF5SEvpY0ibWJmtd7BeCZZeg5y0ad6v7qslkGa3wNw",
+            "https://play-lh.googleusercontent.com/ds6kC5aOaH8gRhSupL8xgfIFnpSfRTy7qGoPS2tHGJ3gFLyY7ovcu_BosYiJUX0qL6k",
+            "https://play-lh.googleusercontent.com/E4pfq-TSO7OnyfWa4D8s2rYd8JCvIkcillZajvDFWceirJ9yrGuzH-hTNLFChiiabg",
+            "https://play-lh.googleusercontent.com/ua76M4JHoYnv67AC0G9z9gl9Dma64nvsi0TldgNJUg3gm6cR1Z419xb70RTA0GZUg0c",
+            "https://play-lh.googleusercontent.com/Bulu8jUDdYKEUCwgUxM_XdxCSynazhMsVxlFEigbAcvk23qaNHdCqwXPawPg4UWjAw",
+            "https://play-lh.googleusercontent.com/niB21HDT0Xd0I0qmpC03a4wkf1bokmStKBkQ4-vZNDeRpH0LTZd-fi1o3PE4vfJ03qp8",
+            "https://play-lh.googleusercontent.com/4GHWDUM98fFj_r_stBEBrPOCZmBP7dtP9OG2jYefSkbN9pY74GUWjmAu1HSBM_gLHtM",
+            "https://play-lh.googleusercontent.com/IlI-2ZXNoJaHJJK8Mb8NVAVcKZ9Ndfgzm__XkRGiVsb09FEdG3K9e-w931zXbKkS7A",
+            "https://play-lh.googleusercontent.com/nVsYNHw5bkm8gONTa3XuMpOKj6aBjJrdHdyL84epP_iS_R0RlIl6iZlPy4gNdLFNDS8",
+            "https://play-lh.googleusercontent.com/risOiaRc_yjpTEsDT_67Qc63V_FUTZwOy54xMnGq9ZGpzPknW3IY2j1L1gIStT_gNg",
+            "https://play-lh.googleusercontent.com/zWxXkffKWSZ6iXHIMJYl4vQZMOYj-1Eg6H3hRobOgrqmhhv908r4BGkWuh0u9XApqdw",
+            "https://play-lh.googleusercontent.com/l1NCWhiyP6hBqLkMdmg_j1g8UJ_2_wFW-JjkNH9MdGspzoxBQzHJWdDxDibRNDLMPWU"
+        ],
+        "video": "https://www.youtube.com/embed/7prtgYQO3VM?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/R5ljlU2lcwmpUm8R7mxvlSdoOHeD4kYE1j2KXsXNFE22Ff2Evz9IebzZSJF0oBcqPsqU",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/7prtgYQO3VM.mp4",
+        "contentRating": "Everyone",
+        "contentRatingDescription": "Mild Fantasy Violence",
+        "adSupported": true,
+        "released": "Feb 27, 2014",
+        "updated": 1740132998000,
+        "version": "1.4.9",
+        "recentChanges": "• Optimized for new devices and Android versions.",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": true,
+        "appId": "com.touchfoo.swordigo",
+        "url": "https://play.google.com/store/apps/details?id=com.touchfoo.swordigo&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T16:30:39.787Z"
+    },
+    {
+        "title": "Ramboat 2 Action Offline Game",
+        "description": "The world is in danger again, the time has come: take your weapon, shoot the enemies and destroy the final bosses that will appear throughout the frenetic stages that await you.\n\nGet ready to fight enemies of all kinds: paratroopers ready to shoot you at all costs, air combat planes that fly over your head dropping powerful bombs, helicopters with large machine guns ready to burst, tanks with incendiary ammunition... It will be a very tough war, fortunately you wont't need an internet connection to destroy your enemies, play this offline game anywhere.\n\nTo win this war you will have a large arsenal of weapons and grenades at your disposal: machine guns, assault rifles, shotguns and a wide variety of grenades will be your allies against the enemy.\n\nAnd what about if you need to equip yourself even better? You have to be prepared for battle, that's why you have many gadgets in the store: headbands and masks so that enemies don't recognize you, goggles and telescopic sights to aim from great distances (like a sniper), bulletproof vest that absorb impacts, camouflage paint that makes you invisible in the jungle... and of course a great choice of t-shirts and pants to keep you on trend!\n\nDuring your mission you will not be alone. The armed forces will provide you with different vehicles to help you destroy the enemy once and for all: ride a horse to jump higher and run faster, ride a jet ski to conquer rivers, ride a motorcycle while shooting enemy troops, and best of all, you can put on a metallic flying suit... you will be a metal soldier!\n\nThis game is very easy to play: keep your finger pressed on the screen to move forward, stop pressing to move backwards, swipe to jump and dash, press the grenade button to deliver a devastating blow. How to shoot and kill enemies? Just get near them and the bullets from your gun will visit them.\n\nDo you want to play freely everywhere? Don't worry, Ramboat 2 is the offline runner you are going to enjoy, there is no wifi required, just start and play.\n\nDon't hesitate anymore, lock and load!",
+        "descriptionHTML": "The world is in danger again, the time has come: take your weapon, shoot the enemies and destroy the final bosses that will appear throughout the frenetic stages that await you.<br><br>Get ready to fight enemies of all kinds: paratroopers ready to shoot you at all costs, air combat planes that fly over your head dropping powerful bombs, helicopters with large machine guns ready to burst, tanks with incendiary ammunition... It will be a very tough war, fortunately you wont&#39;t need an internet connection to destroy your enemies, play this offline game anywhere.<br><br>To win this war you will have a large arsenal of weapons and grenades at your disposal: machine guns, assault rifles, shotguns and a wide variety of grenades will be your allies against the enemy.<br><br>And what about if you need to equip yourself even better? You have to be prepared for battle, that&#39;s why you have many gadgets in the store: headbands and masks so that enemies don&#39;t recognize you, goggles and telescopic sights to aim from great distances (like a sniper), bulletproof vest that absorb impacts, camouflage paint that makes you invisible in the jungle... and of course a great choice of t-shirts and pants to keep you on trend!<br><br>During your mission you will not be alone. The armed forces will provide you with different vehicles to help you destroy the enemy once and for all: ride a horse to jump higher and run faster, ride a jet ski to conquer rivers, ride a motorcycle while shooting enemy troops, and best of all, you can put on a metallic flying suit... you will be a metal soldier!<br><br>This game is very easy to play: keep your finger pressed on the screen to move forward, stop pressing to move backwards, swipe to jump and dash, press the grenade button to deliver a devastating blow. How to shoot and kill enemies? Just get near them and the bullets from your gun will visit them.<br><br>Do you want to play freely everywhere? Don&#39;t worry, Ramboat 2 is the offline runner you are going to enjoy, there is no wifi required, just start and play.<br><br>Don&#39;t hesitate anymore, lock and load!",
+        "summary": "Get ready for a death run, take ur gun and shoot. Offline game, no wifi required",
+        "installs": "10,000,000+",
+        "minInstalls": 10000000,
+        "maxInstalls": 10908326,
+        "score": 4.4404535,
+        "scoreText": "4.4",
+        "ratings": 46756,
+        "reviews": 1357,
+        "histogram": {
+            "1": 1852,
+            "2": 882,
+            "3": 4147,
+            "4": 7773,
+            "5": 32082
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$3.99 - $54.99 per item",
+        "androidVersion": "5.1",
+        "androidVersionText": "5.1",
+        "androidMaxVersion": "VARY",
+        "developer": "Viva Games Studios",
+        "developerId": "5889854114365514439",
+        "developerEmail": "support@vivastudios.com",
+        "developerWebsite": "http://vivastudios.com/",
+        "developerAddress": "Calle Cardenal Bueno Monreal 50, 2da Planta, Sevilla, 41013",
+        "developerLegalName": "VIVA GAMES SOCIEDAD LIMITADA.",
+        "developerLegalEmail": "adminviva@vivastudios.com",
+        "developerLegalAddress": "AVENIDA REPUBLICA ARGENTINA, 25 - PISO 8, 41011 SEVILLA, Spain",
+        "developerLegalPhoneNumber": "+34 673 83 12 57",
+        "privacyPolicy": "http://vivastudios.com/privacy-policy/",
+        "developerInternalID": "5889854114365514439",
+        "genre": "Arcade",
+        "genreId": "GAME_ARCADE",
+        "categories": [
+            {
+                "name": "Action",
+                "id": "GAME_ACTION"
+            },
+            {
+                "name": "Platformer",
+                "id": null
+            },
+            {
+                "name": "Run & gun",
+                "id": null
+            },
+            {
+                "name": "Casual",
+                "id": "GAME_CASUAL"
+            },
+            {
+                "name": "Single player",
+                "id": null
+            },
+            {
+                "name": "Stylized",
+                "id": null
+            },
+            {
+                "name": "Weapons",
+                "id": null
+            },
+            {
+                "name": "Gun",
+                "id": null
+            },
+            {
+                "name": "Modern",
+                "id": null
+            },
+            {
+                "name": "Military",
+                "id": null
+            },
+            {
+                "name": "Offline",
+                "id": null
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/Szef1Ib4WqRY0dmzDSL8Pc6neguHkyAtoC5kFH6rmQGTbn3PQNEuLDEEkBLxRx9ys9s",
+        "headerImage": "https://play-lh.googleusercontent.com/SwTF4inVdi64-MCyVn4SivZcPkUcjeqONVqu7ZDfHpbj2x3uMLeVBvBoIUJlSuUvJjgP",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/cPUucsyIyLSSA3_kRZD4cm_SkUfIkA-oi73HdsdXx40lQX6jdb8kQM9IGsN7yyyALg",
+            "https://play-lh.googleusercontent.com/ENGVopaNbewwShzfOicu32NKlatNOjhA50gcUEsayvp06YvHdjU5JAuSkWrUhZjD7Gs",
+            "https://play-lh.googleusercontent.com/3Gpfv3ORB49QcpV6EEnP85L98ReRf3qkdD8zYZVN3G3FdNtqz6CGz9_tbJhJp95U",
+            "https://play-lh.googleusercontent.com/hRD_LqaenzPd5V9E-QajPXxtOoYMfVT6jIs82dB2UiMr2ao0TrYkOcka-9yeQNsD7Qo",
+            "https://play-lh.googleusercontent.com/tcQFeBaQchw-eK6UiXwa-xbYs8U7lArx1x8jYiSJPfR6687g84lb94lx03V05DqEz_LO",
+            "https://play-lh.googleusercontent.com/-T1WGtEIgl5LlpIq7FxlW9QSg-J9YE6RGxxoyUqDpK-OuWKJBPYJmO2d0BeSjH6mqaI",
+            "https://play-lh.googleusercontent.com/hhEhpt9BfwkFy0JjQVe-u6d8ar03k2vm-njGThZ0ylhr9VA2Osn7Cj9WLGXopkkJGg0",
+            "https://play-lh.googleusercontent.com/1M8zYXNVzbID3dM3cMATkwofOjMY-NRhgyXq2__P143CDoJpm7lrIK-b055IK_poFw",
+            "https://play-lh.googleusercontent.com/KwbRkJLeEteqXMZk3gwBW-sEZo5qVM9O4w2Zt2CTWStni7FXepgrXT3XUE2MU424pDo",
+            "https://play-lh.googleusercontent.com/wlulm2oLEBdtm6_Th-iAchtb7ttvyozCJRQER_Ie2X_sZZlQ8I6rQ7yF8T9tECoXlA",
+            "https://play-lh.googleusercontent.com/G3XIvUKCS8zYImM19ByN8RLkQPRTfY1FrxXvwiq-jVhrhXtcd2CJtcU7BTDfyrVUpDU",
+            "https://play-lh.googleusercontent.com/FVDwkJpf09owXo0zqy11tTywXe_jW16W_90dVdWwvxwPUxbrWoyoWfbkMGDGZpnL23w4",
+            "https://play-lh.googleusercontent.com/XY2vGV_qgIxfE-S1DTj_-20vjm2IB4F5rY8Ft6kgfIHicaKCrfeYyi71EooNHC8KZA",
+            "https://play-lh.googleusercontent.com/OKJwRX8pYvXMGIyIeWG3rXQA0qgh_Wcxjv6OJ8n6dlQ3-XdXVcU31RqIYFUmJEo1-w",
+            "https://play-lh.googleusercontent.com/Y02QtDZgsjtrePvvtZJHSghKWqD8ACCOCnnPJdGfDXD8PJwpD-6g3AoB8BDwIfAbdQ",
+            "https://play-lh.googleusercontent.com/PY1dWSI4EdyYU8SJjEkLZds0PQlBZEG3lezBMqHwFBAkoL47Ae5-YcQWLcAzcZaMV-8",
+            "https://play-lh.googleusercontent.com/nlH9HMOEjsA23iMYQECVgSvaIkSKg4ZHM0FpQSp7Y_hIsIKrbvnne9ssqQRE79r2Hw",
+            "https://play-lh.googleusercontent.com/ZtZfjumtIlCNUoD0BL69bcE9xkYiHOhgNO0eW71v_srkXmI_f5D_HFqeVd5cyxHWYA"
+        ],
+        "video": "https://www.youtube.com/embed/P_tq7ouEG6I?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/SwTF4inVdi64-MCyVn4SivZcPkUcjeqONVqu7ZDfHpbj2x3uMLeVBvBoIUJlSuUvJjgP",
+        "previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/P_tq7ouEG6I.mp4",
+        "contentRating": "Everyone 10+",
+        "contentRatingDescription": "Fantasy Violence, Mild Blood",
+        "adSupported": true,
+        "released": "May 2, 2018",
+        "updated": 1740742989000,
+        "version": "2.5.9",
+        "recentChanges": "- Minor bug fixes",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.generagames.ramboat2.bestarcadeshooter",
+        "url": "https://play.google.com/store/apps/details?id=com.generagames.ramboat2.bestarcadeshooter&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T16:31:07.095Z"
+    },
+ 
+    {
+        "title": "KineMaster - Video Editor",
+        "description": "Get KineMaster and experience the best in video editing! It's easy with all the included powerful editing tools to bring your videos to life!\n\nKineMaster is the best video editor, animation maker and video maker for video creators or vloggers, with powerful video editing features:\ncut videos, merge videos, add photos, add music, and add caption(text) to make amazing videos fast.\n\nKineMaster makes it easier than ever to create vlogs, slideshows, video collages and chroma key videos. KineMaster’s Asset Store gives video editors a huge library of royalty-free music, sound effects, stickers and video templates, making success possible on YouTube (Shorts), Instagram (Reels), Whatsapp, Facebook and TikTok.\n\nKineMaster is the right choice for video editors, music video makers, vlog editors, slideshow makers and video collage makers. It has advanced video editing tools including keyframe animation, chroma key (green screen), speed control (slow motion), stop motion, reverse video, remove background, auto captions and AI features using TF LITE!\n\nTop-tier Video Editing Features:\n• Cut video, trim video, splice video, merge multiple videos, zoom video, etc.\n• Add photos, stickers, effects, fonts, text and 3D materials, etc.\n• Apply transition effects, voice changer, color filters, and color adjustments\n• Choose from a huge library of copyright-free music, sound effects and audio effects\n• Make graphics come alive with a variety of built-in video editing animation and animation tools\n• Use videos captured from various sources (screen recorders, GoPro, drones) without conversion\n• Use advanced features: chroma key (green screen), speed control (slow motion), reverse video and remove background\n\nTry KineMaster, the best video editor to make videos or animation, if you're looking for an Video editing App for Video with Music, Vlog Editor, Video Collage Maker, Slideshow Maker, Music Video Maker, or Animation Maker.\n\nPro Video Editing Made Fast and Easy\n• Browse from countless, useful, high-quality video templates\n• Replace media (videos, photos, sounds, and music) with your own video clips and photos\n• Get a wide variety of royalty-free music to make professional quality videos\n• Pick from music, songs, BGMs, and soundtracks for your videos from our library of music titles\n• Share easily with music that’s copyright-free on YouTube, Instagram, Facebook, Whatsapp, TikTok, or any other social media service\n• Make great (short-form) videos with sound effects, video effects, stickers, text titles, clip graphics, chroma key videos, audio effects and alpha photos.\n\nShare Videos and Share Editing Expertise\n• Save your edits as videos, up to 4K and 60FPS and Share them on YouTube, Instagram, Facebook, Whatsapp, TikTok, or any other social media service\n\n\nFor more information about KineMaster (Vlog & Video Editing), visit https://kinemaster.com.\n\nDisclaimer: KineMaster has no official connection with YouTube, Instagram, Facebook, Whatsapp, or TikTok and is not affiliated, associated, sponsored, or endorsed by any of these companies.\n\nKineMaster and KineMaster Asset Store Terms of Service: https://resource.kinemaster.com/document/tos.html",
+        "descriptionHTML": "Get KineMaster and experience the best in video editing! It&#39;s easy with all the included powerful editing tools to bring your videos to life!<br><br>KineMaster is the best video editor, animation maker and video maker for video creators or vloggers, with powerful video editing features:<br>cut videos, merge videos, add photos, add music, and add caption(text) to make amazing videos fast.<br><br>KineMaster makes it easier than ever to create vlogs, slideshows, video collages and chroma key videos. KineMaster’s Asset Store gives video editors a huge library of royalty-free music, sound effects, stickers and video templates, making success possible on YouTube (Shorts), Instagram (Reels), Whatsapp, Facebook and TikTok.<br><br>KineMaster is the right choice for video editors, music video makers, vlog editors, slideshow makers and video collage makers. It has advanced video editing tools including keyframe animation, chroma key (green screen), speed control (slow motion), stop motion, reverse video, remove background, auto captions and AI features using TF LITE!<br><br>Top-tier Video Editing Features:<br>• Cut video, trim video, splice video, merge multiple videos, zoom video, etc.<br>• Add photos, stickers, effects, fonts, text and 3D materials, etc.<br>• Apply transition effects, voice changer, color filters, and color adjustments<br>• Choose from a huge library of copyright-free music, sound effects and audio effects<br>• Make graphics come alive with a variety of built-in video editing animation and animation tools<br>• Use videos captured from various sources (screen recorders, GoPro, drones) without conversion<br>• Use advanced features: chroma key (green screen), speed control (slow motion), reverse video and remove background<br><br>Try KineMaster, the best video editor to make videos or animation, if you&#39;re looking for an Video editing App for Video with Music, Vlog Editor, Video Collage Maker, Slideshow Maker, Music Video Maker, or Animation Maker.<br><br>Pro Video Editing Made Fast and Easy<br>• Browse from countless, useful, high-quality video templates<br>• Replace media (videos, photos, sounds, and music) with your own video clips and photos<br>• Get a wide variety of royalty-free music to make professional quality videos<br>• Pick from music, songs, BGMs, and soundtracks for your videos from our library of music titles<br>• Share easily with music that’s copyright-free on YouTube, Instagram, Facebook, Whatsapp, TikTok, or any other social media service<br>• Make great (short-form) videos with sound effects, video effects, stickers, text titles, clip graphics, chroma key videos, audio effects and alpha photos.<br><br>Share Videos and Share Editing Expertise<br>• Save your edits as videos, up to 4K and 60FPS and Share them on YouTube, Instagram, Facebook, Whatsapp, TikTok, or any other social media service<br><br><br>For more information about KineMaster (Vlog &amp; Video Editing), visit https://kinemaster.com.<br><br>Disclaimer: KineMaster has no official connection with YouTube, Instagram, Facebook, Whatsapp, or TikTok and is not affiliated, associated, sponsored, or endorsed by any of these companies.<br><br>KineMaster and KineMaster Asset Store Terms of Service: https://resource.kinemaster.com/document/tos.html",
+        "summary": "Make incredible videos with AI, effects, music, captions, filters and much more!",
+        "installs": "500,000,000+",
+        "minInstalls": 500000000,
+        "maxInstalls": 502928900,
+        "score": 4.307879,
+        "scoreText": "4.3",
+        "ratings": 5911782,
+        "reviews": 88610,
+        "histogram": {
+            "1": 570536,
+            "2": 210257,
+            "3": 291507,
+            "4": 595528,
+            "5": 4243849
+        },
+        "price": 0,
+        "free": true,
+        "currency": "USD",
+        "priceText": "Free",
+        "available": true,
+        "offersIAP": true,
+        "IAPRange": "$0.49 - $77.77 per item",
+        "androidVersion": "8.0",
+        "androidVersionText": "8.0",
+        "androidMaxVersion": "VARY",
+        "developer": "KineMaster, Video Editor Experts Group",
+        "developerId": "9138878327109540079",
+        "developerEmail": "support@kinemaster.com",
+        "developerWebsite": "http://www.kinemaster.com",
+        "developerAddress": "1st, 2nd Floor, Solborn Building\n21, Banpo-daero 24-gil, Seocho-gu\nSeoul,  06648\nRepublic of Korea",
+        "developerLegalName": "키네마스터(주)",
+        "developerLegalEmail": "support@kinemaster.com",
+        "developerLegalAddress": "대한민국 서울특별시 서초구, 서초구 반포대로24길 21, 1,2층(서초동, 솔본빌딩), 06648",
+        "developerLegalPhoneNumber": "+82 10-2293-7349",
+        "privacyPolicy": "https://redirect.kinemasters.com/privacy/android/?lang=en_us",
+        "developerInternalID": "9138878327109540079",
+        "genre": "Video Players & Editors",
+        "genreId": "VIDEO_PLAYERS",
+        "categories": [
+            {
+                "name": "Video Players & Editors",
+                "id": "VIDEO_PLAYERS"
+            }
+        ],
+        "icon": "https://play-lh.googleusercontent.com/Jaw57u6LQJNeqKfjJER9MM5On66ZXopBk3rrShag1BBZrX6cZdxxIMGf8nYA_Av0meA",
+        "headerImage": "https://play-lh.googleusercontent.com/CKbarvPw_kY73xBAAswkS8s1wNohQBjwipOWrhhSOK1R46Mu70HVeqspFq9KYi-U5f8",
+        "screenshots": [
+            "https://play-lh.googleusercontent.com/xOTEGAILE3DE8Ispr99reXNCiPnygzSnoVyS4cD2dyQqDk476ouKOihnee-okmmrhg",
+            "https://play-lh.googleusercontent.com/6hSqD7DL48A3Duv5ahmZm1H0ueKxwoDwsfH6UvFDGm-mt5VLdST7kqBj6G9dEPKsNq8",
+            "https://play-lh.googleusercontent.com/xVL8jmXJBQjgiIGbksaqF4ETtDA-CGKuzsOw7PAIi2HoQ0-ahD6EMgmMj7bV4txohrnk",
+            "https://play-lh.googleusercontent.com/R6QYmw73DGfBIn3f6iUquCLyFqUo-jqNZmkvxTfUcQRPK3iSa1vPvnUuUQ8bSA9xqdo",
+            "https://play-lh.googleusercontent.com/ACvO2lDRSpNlok5Tz-pTc0W2XYYJ3pZIN2Upom6qWm1nX2fv_VS6JsXI8V0_-RXUEA",
+            "https://play-lh.googleusercontent.com/QYl9a_-2T1hJDtAzunI1UM0q1LE6v4MKU4rtPL_32o65hymJDTeCln_o2-hSHcqxUBI",
+            "https://play-lh.googleusercontent.com/Tuf7vPRQSyO-QO_iQ4rZcrQ4MzUlMXoXBBMw27gw3Ors3Y4-WbKOuSOU-oifCURnOSdx",
+            "https://play-lh.googleusercontent.com/FLtIoF14IvciBodBLLcrO36tixDdvy1HmsRJZr1KkNrClPnqOCR9-YRU_LNHSgOVjgU"
+        ],
+        "video": "https://www.youtube.com/embed/jO292tb2W7k?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
+        "videoImage": "https://play-lh.googleusercontent.com/CKbarvPw_kY73xBAAswkS8s1wNohQBjwipOWrhhSOK1R46Mu70HVeqspFq9KYi-U5f8",
+        "contentRating": "Everyone",
+        "adSupported": true,
+        "released": "Dec 26, 2013",
+        "updated": 1741654960000,
+        "version": "7.5.18.34154.GP",
+        "recentChanges": "• Keyframe Graphs - Change the speed of animated movements!<br>• AI Music Match - Get music suggestions from your media!<br>• Text Presets - Making great-looking text is easier than ever!",
+        "comments": [],
+        "preregister": false,
+        "earlyAccessEnabled": false,
+        "isAvailableInPlayPass": false,
+        "appId": "com.nexstreaming.app.kinemasterfree",
+        "url": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en&gl=us",
+        "fetchedAt": "2025-03-12T18:01:19.724Z"
     }
 ]
